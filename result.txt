@@ -16,6 +16,36 @@
 安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽导视,http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+阜阳新闻,http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
+阜阳公共,http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
+阜阳教育,http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
+阜阳都市,http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
+合肥新闻,http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+芜湖新闻,http://120.210.193.151:8006/120000001002/XMTwhxw/1.m3u8
+芜湖县新闻,http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
+芜湖公共,http://live1.wuhubtv.com/channel3/sd/live.m3u8
+芜湖公共,https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=2fa004e31707369560
+芜湖生活,http://live1.wuhubtv.com/channel2/sd/live.m3u8
+芜湖生活,https://live3.wuhunews.cn/channel2/playlist.m3u8?_upt=4bc9eee51707366605
+芜湖教育,http://live1.wuhubtv.com/channel4/sd/live.m3u8
+蚌埠新闻,http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
+淮南新闻,http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
+马鞍山新闻,http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
+马鞍山公共,http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
+淮北新闻,http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
+铜陵新闻,http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
+安庆新闻,http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
+黄山新闻,http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
+黄山公共,http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
+屯溪融媒,http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
+宿州新闻,http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
+滁州新闻,http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
+六安新闻,http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
+宣城新闻,http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
+池州新闻,http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
+亳州新闻,http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
+亳州农村,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8
+亳州农村,http://bzlivetv1.ahbztv.com/live/418.m3u8?t=1707362523&k=2706362bd72e875b780662260b2065a5
 
 央视频道,#genre#
 CCTV-1 综合,http://ldncctvwbndbd.a.bdydns.com/ldncctvwbnd/ldcctv1_2/index.m3u8
@@ -110,9 +140,9 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.c
 CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-12 社会与法,http://biaozhun114.com/tv/v6hubei.php?id=13
 CCTV-13 新闻,http://ldncctvwbndbd.a.bdydns.com/ldncctvwbnd/ldcctv13_2/index.m3u8
+CCTV-13 新闻,http://ldncctvwbndali.v.myalicdn.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV-13 新闻,http://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV-13 新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
-CCTV-13 新闻,http://ldncctvwbndali.v.myalicdn.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV-14 少儿,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-14 少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
@@ -515,21 +545,6 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 热播精选,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
 家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-精品纪录,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-军事评论,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-梨园,http://biaozhun114.com/tv/v6hubei.php?id=35
-武术,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
-文物,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
-快乐垂钓,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
-快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
-茶,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWQ5YTE2Mjg4NDMwMzBjM2IyYzkzYjk2ZTU5ZmMxYTM0JmVzPTE3MDczNzA5OTUmdXVpZD0zYTMzOGM4MjExNWYyYWI5NWQ0MTMyYTlhMTJmOWI4ZC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CPDMPP360.m3u8
-茶,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
-怡伴健康,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
-武搏世界,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-农业致富,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
-潮妈辣婆,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-金色频道,http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
 
 港澳频道,#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
