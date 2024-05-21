@@ -34,7 +34,7 @@ favorite_list = [
     "劲爆体育",
     "超级体育",
     "精品体育",
-    "纬来篮球",
+    "纬来体育",
     "咪咕体育",
     "CHC家庭影院",
     "CHC动作电影",
@@ -53,13 +53,11 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://m3u.ibert.me/txt/fmml_dv6.txt",
-    "https://m3u.ibert.me/txt/o_cn.txt",
-    "https://m3u.ibert.me/txt/j_iptv.txt",
     "https://raw.githubusercontent.com/xisohi/IPTV-Multicast-source/main/anhui/mobile.txt",
     "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://gitee.com/golden223/iptv/raw/master/iptv.txt",
-    "https://gitee.com/wuxiyihu/IPTV/blob/master/IPTV",
+    "https://gitee.com/wuxiyihu/IPTV/raw/master/IPTV",
+    "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
 ]
 open_multicast = True
 region_list = ["安徽"]
