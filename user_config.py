@@ -62,8 +62,7 @@ subscribe_urls = [
     "https://raw.githubusercontent.com/xisohi/IPTV-Multicast-source/main/anhui/mobile.txt",
     "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
     "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-    "https://gitee.com/golden223/iptv/raw/master/iptv.txt",
-    "https://gitee.com/wuxiyihu/IPTV/raw/master/IPTV",
+    "http://myzy.eu.org/IPTV.json",
 ]
 open_multicast = True
 region_list = ["安徽"]
