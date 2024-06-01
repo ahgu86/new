@@ -1,9 +1,9 @@
 更新时间,#genre#
-2024-6-1 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-2024-6-1 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225925/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+2024-6-1 CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+2024-6-1 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225925/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽频道,#genre#
 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8
-安徽卫视高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
+安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
 安徽经济生活,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
 安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
 安徽农业科教,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
