@@ -22,6 +22,12 @@ favorite_list = [
     "CCTV-5+ 体育赛事",
     "CCTV-6 电影",
     "CCTV-13 新闻",
+    "CCTV1 综合",
+    "CCTV3 综艺",
+    "CCTV5 体育",
+    "CCTV5+ 体育赛事",
+    "CCTV6 电影",
+    "CCTV13 新闻
     "CCTV1",
     "CCTV3",
     "CCTV5",
@@ -62,7 +68,7 @@ subscribe_urls = [
     "https://raw.githubusercontent.com/xisohi/IPTV-Multicast-source/main/anhui/mobile.txt",
     "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
     "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-    "http://myzy.eu.org/IPTV.json",
+"http://myzy.eu.org/IPTV.json",
 ]
 open_multicast = True
 region_list = ["安徽"]
