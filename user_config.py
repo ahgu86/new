@@ -27,7 +27,7 @@ favorite_list = [
     "CCTV5 体育",
     "CCTV5+ 体育赛事",
     "CCTV6 电影",
-    "CCTV13 新闻
+    "CCTV13 新闻",
     "CCTV1",
     "CCTV3",
     "CCTV5",
