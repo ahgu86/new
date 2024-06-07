@@ -1,22 +1,66 @@
+安徽地方-移动,#genre#
+安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8
+安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
+安徽经济生活,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+安徽公共,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+安徽农业科教,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+安徽综艺体育,http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+安徽国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+阜阳新闻,http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
+阜阳公共,http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
+阜阳都市,http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
+阜阳教育,http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
+合肥新闻,http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+芜湖新闻,http://120.210.193.151:8006/120000001002/XMTwhxw/1.m3u8
+芜湖县新闻,http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
+芜湖公共,http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
+芜湖生活,http://120.210.193.151:8006/120000001002/XMTwhsh/1.m3u8
+芜湖教育,http://120.210.193.151:8006/120000001002/XMTwhjy/1.m3u8
+蚌埠新闻,http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
+淮南新闻,http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
+马鞍山新闻,http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
+马鞍山公共,http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
+淮北新闻,http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
+铜陵新闻,http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
+安庆新闻,http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
+黄山新闻,http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
+黄山公共,http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
+屯溪融媒,http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
+宿州新闻,http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
+滁州新闻,http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
+六安新闻,http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
+宣城新闻,http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
+池州新闻,http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
+亳州新闻,http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
+亳州农村,http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
+徽生活,http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
+海豚生活,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
+安徽导视,http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
+海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
+海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
+海豚少儿,http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 央视-移动,#genre#
-CCTV-1 综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
-CCTV-2 财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
-CCTV-3 综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
-CCTV-4 中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
-CCTV-5 体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
-CCTV-6 电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
-CCTV-7 国防军事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
-CCTV-8 电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
-CCTV-9 纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
-CCTV-10 科教,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
-CCTV-11 戏曲,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
-CCTV-12 社会与法,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
-CCTV-13 新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
-CCTV-14 少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
-CCTV-15 音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
-CCTV-16 奥林匹克,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV-17 农业农村,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
-CCTV-5+ 体育赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
+CCTV2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
+CCTV3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
+CCTV4,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
+CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
+CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+CCTV6,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
+CCTV7,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
+CCTV8,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
+CCTV9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
+CCTV10,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
+CCTV11,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
+CCTV12,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
+CCTV13,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
+CCTV14,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
+CCTV15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
+CCTV16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+CCTV17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+
 CGTN Documentary,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
 CGTN 新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
 CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
@@ -120,24 +164,24 @@ CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 优购物,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-yougw/1.m3u8
 动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 央视高清-移动,#genre#
-CCTV-1 综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
-CCTV-2 财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
-CCTV-3 综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
-CCTV-4 中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
-CCTV-5 体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
-CCTV-6 电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
-CCTV-7 国防军事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
-CCTV-8 电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
-CCTV-9 纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
-CCTV-10 科教,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
-CCTV-11 戏曲,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
-CCTV-12 社会与法,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
-CCTV-13 新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
-CCTV-14 少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
-CCTV-15 音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
-CCTV-16 奥林匹克,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV-17 农业农村,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
-CCTV-5+ 体育赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
+CCTV2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
+CCTV3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
+CCTV4,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
+CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
+CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+CCTV6,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
+CCTV7,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
+CCTV8,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
+CCTV9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
+CCTV10,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
+CCTV11,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
+CCTV12,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
+CCTV13,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
+CCTV14,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
+CCTV15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
+CCTV16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+CCTV17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 CGTN Documentary,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
 CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 
@@ -166,48 +210,6 @@ CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ji
 金鹰卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
 
 
-安徽地方-移动,#genre#
-安徽经济生活,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
-安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
-安徽农业科教,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
-安徽综艺体育,http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
-安徽公共,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
-安徽国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
-徽生活,http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
-海豚生活,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
-安徽导视,http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
-睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
-海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
-海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
-海豚少儿,http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
-
-阜阳新闻,http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
-阜阳公共,http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
-阜阳教育,http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
-阜阳都市,http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
-合肥新闻,http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
-芜湖新闻,http://120.210.193.151:8006/120000001002/XMTwhxw/1.m3u8
-芜湖县新闻,http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
-芜湖公共,http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
-芜湖生活,http://120.210.193.151:8006/120000001002/XMTwhsh/1.m3u8
-芜湖教育,http://120.210.193.151:8006/120000001002/XMTwhjy/1.m3u8
-蚌埠新闻,http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
-淮南新闻,http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
-马鞍山新闻,http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
-马鞍山公共,http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
-淮北新闻,http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
-铜陵新闻,http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
-安庆新闻,http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
-黄山新闻,http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
-黄山公共,http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
-屯溪融媒,http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
-宿州新闻,http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
-滁州新闻,http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
-六安新闻,http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
-宣城新闻,http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
-池州新闻,http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
-亳州新闻,http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
-亳州农村,http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
 
 
 央视-电信1,#genre#
@@ -389,7 +391,6 @@ CCTV央视台球,http://61.190.129.195:8686/rtp/238.1.79.59:4608
 海豚少儿,http://61.190.129.195:8686/rtp/238.1.79.32:4368
 海豚健康,http://61.190.129.195:8686/rtp/238.1.79.33:4376
 海豚影视,http://61.190.129.195:8686/rtp/238.1.79.34:4384
-
 阜阳新闻综合,http://61.190.129.195:8686/rtp/238.1.78.124:6864
 阜阳公共频道,http://61.190.129.195:8686/rtp/238.1.78.125:6872
 阜阳教育频道,http://61.190.129.195:8686/rtp/238.1.78.126:6880
@@ -499,13 +500,13 @@ CCTV13-新闻,http://36.35.16.98:9901/tsfile/live/0001_33.m3u8
 CCTV15-音乐,http://36.35.16.98:9901/tsfile/live/0015_1.m3u8
 CCTV17-农村农业,http://36.35.16.98:9901/tsfile/live/0019_1.m3u8
 
-安徽省内-联通,#genre#
+安徽地方-联通,#genre#
+安徽经济生活,http://36.35.16.98:9901/tsfile/live/0001_35.m3u8
+安徽公共频道,http://36.35.16.98:9901/tsfile/live/0001_37.m3u8
 安徽影视频道,http://36.35.16.98:9901/tsfile/live/0001_36.m3u8
 安徽综艺频道,http://36.35.16.98:9901/tsfile/live/0001_38.m3u8
-安徽经济生活,http://36.35.16.98:9901/tsfile/live/0001_35.m3u8
-安徽国际,http://36.35.16.98:9901/tsfile/live/0130_1.m3u8
 安徽科教频道,http://36.35.16.98:9901/tsfile/live/0001_39.m3u8
-安徽公共频道,http://36.35.16.98:9901/tsfile/live/0001_37.m3u8
+安徽国际,http://36.35.16.98:9901/tsfile/live/0130_1.m3u8
 
 卫视-联通,#genre#
 安徽卫视,http://36.35.16.98:9901/tsfile/live/0001_1.m3u8
