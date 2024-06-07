@@ -78,18 +78,18 @@ CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD
 CCTV怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
 CCTV风云剧场,http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
 CCTV第一剧场,http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
-CCTV风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
-CCTV风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
-CCTV高尔夫网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
-CCTV台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
-CCTV电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
-CCTV央视精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
-CCTV女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
-CCTV兵器时代,http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
+风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
+高尔夫网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
+台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
+电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
+央视精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
+女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
+兵器时代,http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
 CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 
 CGTN Documentary,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
-CGTN 新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
+CGTN,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
 CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
@@ -262,20 +262,20 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 精品纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
 军事评论,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
 梨园,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
-武术,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
-文物,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+武术世界,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
+文物宝库,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
 茶,http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
 怡伴健康,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
 武搏世界,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 农业致富,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
 潮妈辣婆,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
-金色频道,http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
+金色学堂,http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
 
 动画购物频道,#genre#
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
 金鹰卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
-炫动卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
+哈哈炫动,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
 卡酷少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
 优漫卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 金鹰卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
