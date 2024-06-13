@@ -37,9 +37,9 @@ favorite_list = [
     "山东体育",
     "五星体育",
     "江苏卫视",
-    "凤凰卫视",
     "浙江卫视",
     "湖南卫视",
+    "凤凰卫视",
     "凤凰资讯",
     "凤凰中文",
     "翡翠台",
@@ -53,7 +53,7 @@ favorite_list = [
     "CHC影迷电影",
 ]
 open_online_search = False
-favorite_page_num = 5
+favorite_page_num = 6
 default_page_num = 3
 urls_limit = 15
 open_sort = True
@@ -61,14 +61,14 @@ response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
 ipv_type = "all"
-domain_blacklist = ["epg.pw"]
+domain_blacklist = [""]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://raw.githubusercontent.com/xisohi/IPTV-Multicast-source/main/anhui/mobile.txt",
+    "https://gitee.com/T-GU/kk/raw/master/teach.json",
     "https://gitee.com/sangni2024/mingge/raw/master/1949.txt",
     "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-"http://myzy.eu.org/IPTV.json",
+    "http://myzy.eu.org/IPTV.json",
 ]
 open_multicast = True
 region_list = ["安徽"]
