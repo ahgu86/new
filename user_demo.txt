@@ -227,7 +227,7 @@ TVB-财经,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 TVB PEARL,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 緯來體育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-緯來體育,https://s2.pub/cctv-13
+纬来体育,https://s2.pub/cctv-13
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 澳门莲花卫视,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
