@@ -296,6 +296,8 @@ CCTV17 农业农村,http://221.222.178.137:8888/rtp/239.3.1.151:8144$1920x1080
 CCTV17 农业农村,http://14.145.225.21:8888/rtp/239.77.1.121:5146$1920x1080
 CCTV17 农业农村,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 CCTV17 农业农村,http://114.254.37.122:4022/rtp/239.3.1.151:8144$1920x1080
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国天气,http://[2409:8087:c00:20::3:1e]:6610/040000001000/35100001000000060000000000000045/index.m3u8? 
 
 CCTV怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
 CCTV风云剧场,http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
@@ -309,6 +311,13 @@ CCTV央视精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 CCTV女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 CCTV兵器时代,http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
 CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+中国教育1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
+中国教育1,http://60.223.72.124:8004/rtp/226.0.2.181:9360
+中国教育2,http://[2409:8087:c00:20::3:1e]:6610/040000001000/35100001000000060000000000000091/index.m3u8?
+中国教育2,http://39.135.189.199/sxydajtvlive.sx.chinamobile.com/PLTV/25/224/3221225813/index.m3u8?
+中国教育3,http://183.223.221.185:18080/rtp/239.11.0.247:5140
+中国教育4,http://[2409:8087:c00:20::3:1e]:6610/040000001000/35100001000000060000000000000094/index.m3u8?
+中国教育4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
@@ -753,6 +762,9 @@ CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 
 超级电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 超级电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
@@ -800,9 +812,16 @@ CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+凤凰中文,http://118.122.111.125:5555/udp/239.93.1.9:2192
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+凤凰资讯,http://118.122.111.125:5555/udp/239.93.1.4:2191
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
+NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
 TVB明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
