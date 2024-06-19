@@ -16,14 +16,11 @@
 安徽卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
 安徽卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
 
-
 安徽经济生活,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
-
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 
 安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
-
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
@@ -31,7 +28,6 @@
 安徽农业科教,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
 
 安徽综艺体育,http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
-
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
@@ -70,7 +66,6 @@
 央视频道,#genre#
 CCTV1 综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 CCTV1 综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
-
 CCTV1 综合,http://221.217.54.227:4022/rtp/239.3.1.129:8008$1920x1080
 CCTV1 综合,http://14.145.225.21:8888/rtp/239.77.0.119:5146$1920x1080
 CCTV1 综合,http://180.172.99.192:8888/rtp/239.45.3.145:5140$1920x1080
@@ -85,7 +80,6 @@ CCTV1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/
 
 CCTV2 财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 CCTV2 财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
-
 CCTV2 财经,http://171.8.237.138:8800/rtp/239.16.10.127:2000$1920x1080
 CCTV2 财经,http://114.254.90.23:2222/rtp/239.3.1.60:8084$1920x1080
 CCTV2 财经,http://221.219.101.215:8012/rtp/239.3.1.60:8084$1920x1080
@@ -100,7 +94,6 @@ CCTV2 财经,http://1.202.9.192:8888/rtp/225.1.8.2:8084$1920x1080
 CCTV2 财经,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
 
 CCTV3 综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
-
 CCTV3 综艺,http://115.171.80.59:8888/rtp/225.1.8.88:8000$1920x1080
 CCTV3 综艺,http://125.34.16.103:8888/rtp/239.3.1.172:8001$1920x1080
 CCTV3 综艺,http://180.172.99.192:8888/rtp/239.45.1.68:5140$1920x1080
@@ -151,7 +144,6 @@ CCTV5+ 体育赛事,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6
 CCTV5+ 体育赛事,http://ha.tonyliangli.cn:4022/rtp/239.3.1.130:8004$1920x1080
 CCTV5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
-
 CCTV6 电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
 CCTV6 电影,http://180.172.99.192:8888/rtp/239.45.1.70:5140$1920x1080
 CCTV6 电影,http://114.254.94.117:2222/rtp/239.3.1.174:8001$1920x1080
@@ -165,7 +157,6 @@ CCTV6 电影,http://61.51.140.138:8888/rtp/239.3.1.174:8001$1920x1080
 CCTV6 电影,http://ha.tonyliangli.cn:4022/rtp/239.3.1.174:8001$1920x1080
 CCTV6 电影,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.174:8001$1920x1080
 CCTV6 电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
-
 
 CCTV7 国防军事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
 CCTV7 国防军事,http://180.172.99.192:8888/rtp/239.45.3.56:5140$1920x1080
@@ -193,7 +184,6 @@ CCTV8 电视剧,http://58.41.30.154:8001/rtp/239.45.1.71:5140$1920x1080
 CCTV8 电视剧,http://58.41.27.144:18888/rtp/239.45.1.71:5140$1920x1080
 CCTV8 电视剧,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
 
-
 CCTV9 纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
 CCTV9 纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
 CCTV9 纪录,http://171.8.237.138:8800/rtp/239.16.10.103:2000$1920x1080
@@ -219,7 +209,6 @@ CCTV10 科教,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784
 CCTV10 科教,http://ha.tonyliangli.cn:4022/rtp/239.3.1.63:8116$1920x1080
 CCTV10 科教,http://webmail.axxe.top:4022/rtp/239.3.1.63:8116$1920x1080
 
-
 CCTV11 戏曲,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
 CCTV11 戏曲,http://123.113.248.110:8888/rtp/239.3.1.152:8120$1920x1080
 CCTV11 戏曲,http://221.219.101.215:8012/rtp/239.3.1.152:8120$1920x1080
@@ -233,7 +222,6 @@ CCTV11 戏曲,http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.152:8120$1920x1080
 CCTV11 戏曲,http://cn.zzmd.fun:8888/rtp/239.3.1.152:8120$1920x1080
 CCTV11 戏曲,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
 
-
 CCTV12 社会与法,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
 CCTV12 社会与法,http://123.101.98.235:2000/rtp/239.16.10.110:2000$1920x1080
 CCTV12 社会与法,http://221.222.178.137:8888/rtp/239.3.1.64:8124$1920x1080
@@ -245,7 +233,6 @@ CCTV12 社会与法,http://1.202.9.192:8888/rtp/225.1.8.12:8124$1920x1080
 CCTV12 社会与法,http://123.122.161.121:19999/rtp/239.3.1.64:8124$1920x1080
 CCTV12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12 社会与法,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU
-
 
 CCTV13 新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
 CCTV13 新闻,http://123.101.98.235:2000/rtp/239.16.10.111:2000$1920x1080
@@ -261,7 +248,6 @@ CCTV13 新闻,http://webmail.axxe.top:4022/rtp/239.3.1.124:8128$1920x1080
 CCTV13 新闻,http://wg.mxmy.net:8888/rtp/239.3.1.124:8128$1920x1080
 CCTV13 新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
 
-
 CCTV14 少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
 CCTV14 少儿,http://180.172.99.192:8888/rtp/239.45.3.23:5140$1920x1080
 CCTV14 少儿,http://180.158.37.227:99/rtp/239.45.3.23:5140$1920x1080
@@ -273,7 +259,6 @@ CCTV14 少儿,http://114.254.37.122:4022/rtp/239.3.1.65:8132$1920x1080
 CCTV14 少儿,http://182.32.160.19:9997/rtp/239.21.1.157:5002$1920x1080
 CCTV14 少儿,http://221.217.54.227:4022/rtp/239.3.1.65:8132$1920x1080
 CCTV14 少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
-
 
 CCTV15 音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
 CCTV15 音乐,http://171.8.237.138:8800/rtp/239.16.10.113:2000$1920x1080
@@ -300,8 +285,6 @@ CCTV16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/P
 CCTV16 奥林匹克,http://webmail.axxe.top:4022/rtp/239.3.1.184:8001$1920x1080
 CCTV16 奥林匹克,http://ha.tonyliangli.cn:4022/rtp/239.3.1.184:8001$1920x1080
 
-
-
 CCTV17 农业农村,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 CCTV17 农业农村,http://180.158.37.227:99/rtp/239.45.3.52:5140$1920x1080
 CCTV17 农业农村,http://101.83.113.87:4022/rtp/239.45.3.52:5140$1920x1080
@@ -313,7 +296,6 @@ CCTV17 农业农村,http://221.222.178.137:8888/rtp/239.3.1.151:8144$1920x1080
 CCTV17 农业农村,http://14.145.225.21:8888/rtp/239.77.1.121:5146$1920x1080
 CCTV17 农业农村,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 CCTV17 农业农村,http://114.254.37.122:4022/rtp/239.3.1.151:8144$1920x1080
-
 
 CCTV怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
 CCTV风云剧场,http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
@@ -340,8 +322,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 安徽卫视,http://125.34.16.103:8888/rtp/239.3.1.211:8064$1920x1080
 安徽卫视,http://webmail.axxe.top:4022/rtp/239.3.1.211:8064$1920x1080
 
-
-
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hunanstv/1.m3u8
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 湖南卫视,http://180.172.99.192:8888/rtp/239.45.3.233:5140$1920x1080
@@ -356,8 +336,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 湖南卫视,http://wg.mxmy.net:8888/rtp/239.3.1.132:8012$1920x1080
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 
-
-
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8
 东方卫视,http://115.171.80.59:8888/rtp/225.1.8.45:8032$1920x1080
@@ -371,8 +349,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 东方卫视,http://114.254.90.23:2222/rtp/239.3.1.136:8032$1920x1080
 东方卫视,http://58.41.30.154:8001/rtp/239.45.3.146:5140$1920x1080
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-
-
 
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/beijingstv/1.m3u8
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
@@ -397,9 +373,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 浙江卫视,http://58.41.27.144:18888/rtp/239.45.3.178:5140$1920x1080
 浙江卫视,http://101.83.113.87:4022/rtp/239.45.3.178:5140$1920x1080
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-
-
 
 江苏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiangsustv/1.m3u8
 江苏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-jiangsustv/1.m3u8
@@ -412,9 +385,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 江苏卫视,http://115.171.216.22:4000/rtp/225.1.8.44:8028$1920x1080
 江苏卫视,http://171.8.237.138:8800/rtp/239.16.10.8:2000$1920x1080
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-
-
 
 天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/tianjinstv/1.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -427,6 +397,7 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 天津卫视,http://123.113.101.116:4022/rtp/239.3.1.141:1234$1920x1080
 天津卫视,http://125.34.16.103:8888/rtp/239.3.1.141:1234$1920x1080
 天津卫视,http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.141:1234$1920x1080
+天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 
 山东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongstv/1.m3u8
 山东卫视,http://120.210.193.151:8006/120000001002/XMTshandongwshd/index.m3u8
@@ -440,8 +411,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 山东卫视,http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.209:8052$1920x1080
 山东卫视,http://ha.tonyliangli.cn:4022/rtp/239.3.1.209:8052$1920x1080
 
-
-
 辽宁卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-liaoningstv/1.m3u8
 辽宁卫视,http://123.113.101.116:4022/rtp/239.3.1.210:8056$1920x1080
 辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
@@ -452,8 +421,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 辽宁卫视,http://1.202.9.192:8888/rtp/225.1.8.51:8056$1920x1080
 辽宁卫视,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.210:8056$1920x1080
 
-
-
 河南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/henanstv/1.m3u8
 河南卫视,http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 河南卫视,http://182.32.160.19:9997/rtp/239.21.2.37:5002$1920x1080
@@ -463,7 +430,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 河南卫视,http://180.158.37.227:99/rtp/239.45.0.3:5140$1920x1080
 河南卫视,http://123.101.98.235:2000/rtp/239.16.10.119:2000$1920x1080
 河南卫视,http://14.145.225.21:8888/rtp/239.77.0.17:5146$1920x1080
-
 
 深圳卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/1.m3u8
 深圳卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shenzhenstv/1.m3u8
@@ -477,7 +443,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 深圳卫视,http://180.172.99.192:8888/rtp/239.45.3.231:5140$1920x1080
 深圳卫视,http://221.222.178.137:8888/rtp/239.3.1.134:8020$1920x1080
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-
 
 江西卫视,http://120.210.193.151:8006/120000001002/XMTjiangxiwshd/index.m3u8
 江西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiangxistv/1.m3u8
@@ -493,8 +458,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 江西卫视,http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.123:8164$1920x1080
 江西卫视,http://ha.tonyliangli.cn:4022/rtp/239.3.1.123:8164$1920x1080
 
-
-
 贵州卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-guizhoustv/1.m3u8
 贵州卫视,http://221.217.54.227:4022/rtp/239.3.1.149:8076$1920x1080
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
@@ -505,8 +468,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 贵州卫视,http://114.254.94.117:2222/rtp/239.3.1.149:8076$1920x1080
 贵州卫视,http://171.8.237.138:8800/rtp/239.16.10.15:2000$1920x1080
 贵州卫视,http://wg.mxmy.net:8888/rtp/239.3.1.149:8076$1920x1080
-
-
 
 吉林卫视,http://120.210.193.151:8006/120000001002/XMTjlwshd/index.m3u8	
 吉林卫视,http://180.158.37.227:99/rtp/239.45.0.6:5140$1920x1080
@@ -520,7 +481,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 吉林卫视,http://180.172.99.192:8888/rtp/239.45.0.6:5140$1920x1080
 吉林卫视,http://125.34.16.103:8888/rtp/239.3.1.240:8172$1920x1080
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-
 
 广东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/1.m3u8
 广东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangdongstv/1.m3u8
@@ -538,7 +498,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 广东卫视,http://115.171.216.22:4000/rtp/225.1.8.49:8048$1920x1080
 广东卫视,http://14.145.225.21:8888/rtp/239.77.0.84:5146$1920x1080
 
-
 湖北卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
 湖北卫视,http://58.41.27.144:18888/rtp/239.45.3.239:5140$1920x1080
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
@@ -549,8 +508,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 湖北卫视,http://180.172.99.192:8888/rtp/239.45.3.239:5140$1920x1080
 湖北卫视,http://58.41.30.154:8001/rtp/239.45.3.239:5140$1920x1080
 湖北卫视,http://123.122.161.121:19999/rtp/239.3.1.138:8044$1920x1080
-
-
 
 河北卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hebeistv/1.m3u8
 河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?fmmv6
@@ -564,7 +521,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 河北卫视,http://61.51.140.138:8888/rtp/239.3.1.148:8072$1920x1080
 河北卫视,http://webmail.axxe.top:4022/rtp/239.3.1.148:8072$1920x1080
 
-
 山西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxistv/1.m3u8
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
@@ -573,7 +529,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 山西卫视,http://14.145.225.21:8888/rtp/239.77.0.69:5146$720x576
 山西卫视,http://58.41.27.144:18888/rtp/239.45.1.229:5140$720x576
 山西卫视,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.42:8172$720x576
-
 
 重庆卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/chongqingstv/1.m3u8
 重庆卫视,http://120.210.193.151:8006/120000001002/XMTchongqingwshd/index.m3u8
@@ -587,7 +542,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://ha.tonyliangli.cn:4022/rtp/239.3.1.122:8160$1920x1080
 
-
 四川卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
@@ -599,7 +553,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 四川卫视,http://58.41.30.154:8001/rtp/239.45.1.83:5140$1920x1080
 四川卫视,http://123.101.98.235:2000/rtp/239.16.10.20:2000$1920x1080
 
-
 广西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangxistv/1.m3u8
 广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 广西卫视,http://58.41.27.144:18888/rtp/239.45.0.5:5140$1920x1080
@@ -609,7 +562,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 广西卫视,http://123.101.98.235:2000/rtp/239.16.10.18:2000$1920x1080
 广西卫视,http://61.140.233.79:4000/rtp/239.253.43.36:5146$1920x1080
 广西卫视,http://14.145.225.21:8888/rtp/239.77.0.139:5146$1920x1080
-
 
 陕西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxi1stv/1.m3u8
 陕西卫视,http://61.140.233.79:4000/rtp/239.77.0.68:5146$720x576
@@ -623,7 +575,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 陕西卫视,http://14.145.225.21:8888/rtp/239.77.0.68:5146$720x576
 
-
 甘肃卫视,http://120.210.193.151:8006/120000001002/XMTgswshd/index.m3u8
 甘肃卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/gansustv/1.m3u8
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
@@ -636,7 +587,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 甘肃卫视,http://58.41.27.144:18888/rtp/239.45.1.234:5140$720x576
 甘肃卫视,http://14.145.225.21:8888/rtp/239.77.0.189:5146$1920x1080
 
-
 宁夏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ningxiastv/1.m3u8
 宁夏卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?fmmv6
 宁夏卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
@@ -647,7 +597,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 宁夏卫视,http://58.41.30.154:8001/rtp/239.45.1.213:5140$720x576
 宁夏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 宁夏卫视,http://14.145.225.21:8888/rtp/239.77.0.73:5146$720x576
-
 
 青海卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
@@ -660,7 +609,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 青海卫视,http://14.145.225.21:8888/rtp/239.77.1.70:5146$720x576
 青海卫视,http://14.145.225.21:8888/rtp/239.253.43.125:5146$1920x1080
 
-
 海南卫视,http://120.210.193.151:8006/120000001002/XMThainanwshd/index.m3u8
 海南卫视,http://58.41.30.154:8001/rtp/239.45.1.81:5140$1920x1080
 海南卫视,http://58.41.27.144:18888/rtp/239.45.1.81:5140$1920x1080
@@ -671,8 +619,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 海南卫视,http://14.145.225.21:8888/rtp/239.253.43.35:5146$1920x1080
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
-
-
 云南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/yunnanstv/1.m3u8
 云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
@@ -680,7 +626,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 云南卫视,http://58.41.27.144:18888/rtp/239.45.0.4:5140$1920x1080
 云南卫视,http://123.101.98.235:2000/rtp/239.16.10.19:2000$1920x1080
 云南卫视,http://14.145.225.21:8888/rtp/239.253.43.37:5146$1920x1080
-
 
 东南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -694,8 +639,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 东南卫视,http://114.254.94.117:2222/rtp/239.3.1.156:8148$1920x1080
 东南卫视,http://14.145.225.21:8888/rtp/239.77.1.104:5146$1920x1080
 
-
-
 三沙卫视,http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
 三沙卫视,http://58.41.30.154:8001/rtp/239.45.1.82:5140$720x576
 三沙卫视,http://180.172.99.192:8888/rtp/239.45.1.82:5140$720x576
@@ -706,11 +649,9 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 三沙卫视,http://180.158.37.227:99/rtp/239.45.1.82:5140$720x576
 三沙卫视,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.155:4120$720x576
 
-
 厦门卫视,http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
-
 
 兵团卫视,http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8
 兵团卫视,http://58.41.30.154:8001/rtp/239.45.3.143:5140$1920x1080
@@ -723,7 +664,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 兵团卫视,http://180.158.37.227:99/rtp/239.45.3.143:5140$1920x1080
 兵团卫视,http://58.41.30.154:8001/rtp/239.45.1.117:5140$720x576
 
-
 黑龙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 黑龙江卫视,http://58.41.27.144:18888/rtp/239.45.3.232:5140$1920x1080
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
@@ -735,7 +675,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 黑龙江卫视,http://webmail.axxe.top:4022/rtp/239.3.1.133:8016$1920x1080
 黑龙江卫视,http://14.145.225.21:8888/rtp/239.77.1.6:5146$1920x1080
 
-
 新疆卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xinjiangstv/1.m3u8
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?fmmv6
@@ -746,14 +685,12 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://14.145.225.21:8888/rtp/239.77.1.53:5146$720x576
 
-
 西藏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xizangstv/1.m3u8
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 西藏卫视,http://180.158.37.227:99/rtp/239.45.1.231:5140$720x576
 西藏卫视,http://58.41.30.154:8001/rtp/239.45.1.231:5140$720x576
 西藏卫视,http://61.140.233.79:4000/rtp/239.77.0.74:5146$720x576
 西藏卫视,http://14.145.225.21:8888/rtp/239.77.1.49:5146$720x576
-
 
 内蒙古卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/neimenggustv/1.m3u8
 内蒙古卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
@@ -763,7 +700,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 内蒙古卫视,http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.43:8176$720x576
 内蒙古卫视,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.43:8176$720x576
 内蒙古卫视,http://14.145.225.21:8888/rtp/239.77.0.70:5146$720x576
-
 
 体育频道,#genre#
 超级体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
@@ -776,9 +712,6 @@ CCTV世界地理,http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 咪咕全民热练,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8000k-1080P-quanminrl/1.m3u8
 
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-
-
-
 
 CBA体育,http://live-cmvideo.cmread.com:80/migu/lunbo/cba/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=261360ecdd41429ba089515be68c33d9
 咪咕体育,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d71afdb4433cfb1ced90779b543d1dee
@@ -811,7 +744,6 @@ CCTV 5+体育赛事,http://ha.tonyliangli.cn:4022/rtp/239.3.1.130:8004$1920x1080
 广东体育,http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 
-
 风云足球,http://biaozhun114.com/tv/v6hubei.php?id=20
 RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -821,7 +753,6 @@ CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
-
 
 超级电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 超级电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
@@ -870,7 +801,6 @@ CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-
 
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
