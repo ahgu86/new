@@ -1,592 +1,584 @@
-Name: 安徽卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 420ms
-Name: 安徽卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: 安徽卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 440ms
-Name: 安徽卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 486ms
-Name: 安徽卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 安徽卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 安徽卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: 安徽卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 521ms
-Name: 安徽卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.159:5002$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: 安徽卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 711ms
-Name: CCTV1 综合, URL: http://114.245.104.135:8888/rtp/239.3.1.129:8008$1920x1080, Date: None, Resolution: None, Response Time: 427ms
-Name: CCTV1 综合, URL: http://222.129.32.10:8888/rtp/239.3.1.129:8008$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: CCTV1 综合, URL: http://182.115.230.52:4022/rtp/225.1.4.73:1102$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: CCTV1 综合, URL: http://58.41.27.144:18888/rtp/239.45.3.145:5140$1920x1080, Date: None, Resolution: None, Response Time: 502ms
-Name: CCTV1 综合, URL: http://116.21.123.109:8000/rtp/239.77.0.119:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: CCTV1 综合, URL: http://116.21.123.109:8000/rtp/239.77.0.86:5146$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV1 综合, URL: http://180.171.56.119:10000/rtp/239.45.3.145:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: CCTV1 综合, URL: http://14.145.225.21:8888/rtp/239.77.0.119:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: CCTV1 综合, URL: http://183.54.208.219:9999/rtp/239.77.0.119:5146$1920x1080, Date: None, Resolution: None, Response Time: 515ms
-Name: CCTV1 综合, URL: http://58.41.30.154:8001/rtp/239.45.3.145:5140$1920x1080, Date: None, Resolution: None, Response Time: 521ms
-Name: CCTV2 财经, URL: http://115.60.253.201:9999/rtp/225.1.4.74:1103$1920x1080, Date: None, Resolution: None, Response Time: 420ms
-Name: CCTV2 财经, URL: http://114.249.220.237:8888/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: CCTV2 财经, URL: http://114.249.22.163:9000/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: CCTV2 财经, URL: http://222.129.32.10:8888/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV2 财经, URL: http://125.34.16.103:7777/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 496ms
-Name: CCTV2 财经, URL: http://115.171.80.59:8888/rtp/225.1.8.2:8084$1920x1080, Date: None, Resolution: None, Response Time: 554ms
-Name: CCTV2 财经, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 639ms
-Name: CCTV2 财经, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 724ms
-Name: CCTV2 财经, URL: http://114.254.88.184:2222/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 828ms
-Name: CCTV2 财经, URL: http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 998ms
-Name: CCTV3 综艺, URL: http://125.34.16.103:7777/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 430ms
-Name: CCTV3 综艺, URL: http://124.65.0.167:20000/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 441ms
-Name: CCTV3 综艺, URL: http://114.249.22.163:9000/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: CCTV3 综艺, URL: http://wg.mxmy.net:8888/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: CCTV3 综艺, URL: http://116.21.123.109:8000/rtp/239.77.0.169:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: CCTV3 综艺, URL: http://180.171.56.119:10000/rtp/239.45.1.68:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: CCTV3 综艺, URL: http://58.41.30.154:8001/rtp/239.45.1.68:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: CCTV3 综艺, URL: http://1.203.77.170:7788/rtp/225.1.8.88:8000$1920x1080, Date: None, Resolution: None, Response Time: 560ms
-Name: CCTV3 综艺, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 773ms
-Name: CCTV3 综艺, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 885ms
-Name: CCTV4 中文国际, URL: http://116.233.220.113:1688/rtp/239.45.0.2:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV4 中文国际, URL: http://14.145.225.21:8888/rtp/239.77.0.33:5146$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: CCTV4 中文国际, URL: http://116.21.123.109:8000/rtp/239.77.0.33:5146$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: CCTV4 中文国际, URL: http://14.145.225.21:8888/rtp/239.77.1.166:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: CCTV4 中文国际, URL: http://1.202.9.192:8888/rtp/225.1.8.4:8092$1920x1080, Date: None, Resolution: None, Response Time: 555ms
-Name: CCTV4 中文国际, URL: http://ik6.iptv8.net:8888/rtp/225.1.5.30:1333$1920x1080, Date: None, Resolution: None, Response Time: 624ms
-Name: CCTV4 中文国际, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.105:8092$1920x1080, Date: None, Resolution: None, Response Time: 634ms
-Name: CCTV4 中文国际, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.214:4220$1920x1080, Date: None, Resolution: None, Response Time: 647ms
-Name: CCTV4 中文国际, URL: http://bplwberp.zzmd.fun:8888/rtp/239.3.1.105:8092$1920x1080, Date: None, Resolution: None, Response Time: 920ms
-Name: CCTV4 中文国际, URL: http://ha.tonyliangli.cn:4022/rtp/239.3.1.214:4220$1920x1080, Date: None, Resolution: None, Response Time: 1140ms
-Name: CCTV5 体育, URL: http://114.249.220.237:8888/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: CCTV5 体育, URL: http://124.65.0.167:20000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 437ms
-Name: CCTV5 体育, URL: http://222.129.32.10:8888/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: CCTV5 体育, URL: http://114.249.22.163:9000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: CCTV5 体育, URL: http://125.34.16.103:7777/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 498ms
-Name: CCTV5 体育, URL: http://183.54.208.219:9999/rtp/239.253.43.121:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: CCTV5 体育, URL: http://114.254.88.184:2222/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: CCTV5 体育, URL: http://115.171.80.59:8888/rtp/225.1.8.89:8000$1920x1080, Date: None, Resolution: None, Response Time: 555ms
-Name: CCTV5 体育, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 697ms
-Name: CCTV5+ 体育赛事, URL: http://114.249.220.237:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: CCTV5+ 体育赛事, URL: http://114.249.22.163:9000/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: CCTV5+ 体育赛事, URL: http://182.115.230.52:4022/rtp/225.1.4.75:1104$1920x1080, Date: None, Resolution: None, Response Time: 488ms
-Name: CCTV5+ 体育赛事, URL: http://123.113.248.110:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: CCTV5+ 体育赛事, URL: http://116.21.123.109:8000/rtp/239.77.0.87:5146$1920x1080, Date: None, Resolution: None, Response Time: 506ms
-Name: CCTV5+ 体育赛事, URL: http://wg.mxmy.net:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 506ms
-Name: CCTV5+ 体育赛事, URL: http://drive.mxmy.net:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 539ms
-Name: CCTV5+ 体育赛事, URL: http://115.171.80.59:8888/rtp/225.1.8.20:8004$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: CCTV5+ 体育赛事, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 678ms
-Name: CCTV6 电影, URL: http://222.129.32.10:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: CCTV6 电影, URL: http://124.65.0.167:20000/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: CCTV6 电影, URL: http://114.254.89.75:2222/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV6 电影, URL: http://58.41.27.144:18888/rtp/239.45.1.70:5140$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: CCTV6 电影, URL: http://123.113.237.79:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: CCTV6 电影, URL: http://58.39.142.6:4022/rtp/239.45.1.70:5140$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV6 电影, URL: http://123.101.98.26:2000/rtp/239.16.10.101:2000$1920x1080, Date: None, Resolution: None, Response Time: 548ms
-Name: CCTV6 电影, URL: http://bplwberp.zzmd.fun:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 704ms
-Name: CCTV6 电影, URL: http://114.254.88.184:2222/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 1555ms
-Name: CCTV7 国防军事, URL: http://114.249.220.237:8888/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: CCTV7 国防军事, URL: http://114.245.110.101:8888/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: CCTV7 国防军事, URL: http://114.249.22.163:9000/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: CCTV7 国防军事, URL: http://125.34.16.103:7777/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 496ms
-Name: CCTV7 国防军事, URL: http://58.39.142.6:4022/rtp/239.45.3.56:5140$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: CCTV7 国防军事, URL: http://58.41.30.154:8001/rtp/239.45.3.56:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: CCTV7 国防军事, URL: http://58.41.27.144:18888/rtp/239.45.3.56:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: CCTV7 国防军事, URL: http://123.101.98.26:2000/rtp/239.16.10.130:2000$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: CCTV7 国防军事, URL: http://115.171.80.59:8888/rtp/225.1.8.7:8104$1920x1080, Date: None, Resolution: None, Response Time: 554ms
-Name: CCTV7 国防军事, URL: http://114.254.88.184:2222/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 2447ms
-Name: CCTV8 电视剧, URL: http://125.34.16.103:7777/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: CCTV8 电视剧, URL: http://114.249.22.163:9000/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: CCTV8 电视剧, URL: http://111.196.134.183:20000/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 473ms
-Name: CCTV8 电视剧, URL: http://123.113.237.79:8888/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 497ms
-Name: CCTV8 电视剧, URL: http://58.41.30.154:8001/rtp/239.45.1.71:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: CCTV8 电视剧, URL: http://180.171.56.119:10000/rtp/239.45.1.71:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: CCTV8 电视剧, URL: http://114.254.88.184:2222/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 534ms
-Name: CCTV8 电视剧, URL: http://115.171.80.59:8888/rtp/225.1.8.85:8000$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: CCTV8 电视剧, URL: http://123.101.98.26:2000/rtp/239.16.10.102:2000$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: CCTV8 电视剧, URL: http://1.203.77.170:7788/rtp/225.1.8.85:8000$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: CCTV9 纪录, URL: http://114.245.104.135:8888/rtp/239.3.1.62:8112$1920x1080, Date: None, Resolution: None, Response Time: 423ms
-Name: CCTV9 纪录, URL: http://114.249.22.163:9000/rtp/239.3.1.62:8112$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: CCTV9 纪录, URL: http://124.65.0.167:20000/rtp/239.3.1.62:8112$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: CCTV9 纪录, URL: http://123.113.237.79:8888/rtp/239.3.1.62:8112$1920x1080, Date: None, Resolution: None, Response Time: 458ms
-Name: CCTV9 纪录, URL: http://125.34.16.103:7777/rtp/239.3.1.62:8112$1920x1080, Date: None, Resolution: None, Response Time: 495ms
-Name: CCTV9 纪录, URL: http://58.41.27.144:18888/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 502ms
-Name: CCTV9 纪录, URL: http://58.39.142.6:4022/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV9 纪录, URL: http://116.233.220.113:1688/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV9 纪录, URL: http://180.171.56.119:10000/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 517ms
-Name: CCTV9 纪录, URL: http://58.41.30.154:8001/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 520ms
-Name: CCTV10 科教, URL: http://114.249.22.163:9000/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 443ms
-Name: CCTV10 科教, URL: http://111.196.134.183:20000/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 471ms
-Name: CCTV10 科教, URL: http://114.254.89.75:2222/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: CCTV10 科教, URL: http://123.113.237.79:8888/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 499ms
-Name: CCTV10 科教, URL: http://58.41.27.144:18888/rtp/239.45.3.8:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: CCTV10 科教, URL: http://180.171.56.119:10000/rtp/239.45.3.8:5140$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: CCTV10 科教, URL: http://182.32.160.19:9997/rtp/239.21.1.155:5002$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: CCTV10 科教, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 690ms
-Name: CCTV10 科教, URL: http://114.245.110.101:8888/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 893ms
-Name: CCTV10 科教, URL: http://webmail.axxe.top:4022/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 944ms
-Name: CCTV11 戏曲, URL: http://114.245.104.135:8888/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: CCTV11 戏曲, URL: http://222.129.32.10:8888/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: CCTV11 戏曲, URL: http://124.65.0.167:20000/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: CCTV11 戏曲, URL: http://123.113.237.79:8888/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 452ms
-Name: CCTV11 戏曲, URL: http://webmail.axxe.top:4022/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: CCTV11 戏曲, URL: http://116.21.123.109:8000/rtp/239.77.1.238:5146$1920x1080, Date: None, Resolution: None, Response Time: 508ms
-Name: CCTV11 戏曲, URL: http://183.54.208.219:9999/rtp/239.77.1.238:5146$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: CCTV11 戏曲, URL: http://182.32.160.19:9997/rtp/239.21.2.2:5002$1920x1080, Date: None, Resolution: None, Response Time: 545ms
-Name: CCTV11 戏曲, URL: http://115.171.80.59:8888/rtp/225.1.8.73:8120$1920x1080, Date: None, Resolution: None, Response Time: 554ms
-Name: CCTV11 戏曲, URL: http://1.203.77.170:7788/rtp/225.1.8.73:8120$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: CCTV12 社会与法, URL: http://114.249.220.237:8888/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 425ms
-Name: CCTV12 社会与法, URL: http://114.249.22.163:9000/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 434ms
-Name: CCTV12 社会与法, URL: http://221.219.100.60:4022/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 450ms
-Name: CCTV12 社会与法, URL: http://114.245.104.135:8888/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 475ms
-Name: CCTV12 社会与法, URL: http://182.115.230.52:4022/rtp/225.1.4.79:1108$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: CCTV12 社会与法, URL: http://58.39.142.6:4022/rtp/239.45.3.10:5140$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: CCTV12 社会与法, URL: http://116.21.123.109:8000/rtp/239.77.0.136:5146$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV12 社会与法, URL: http://58.41.30.154:8001/rtp/239.45.3.10:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: CCTV12 社会与法, URL: http://182.32.160.19:9997/rtp/239.21.1.156:5002$1920x1080, Date: None, Resolution: None, Response Time: 534ms
-Name: CCTV12 社会与法, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 624ms
-Name: CCTV13 新闻, URL: http://114.245.110.101:8888/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: CCTV13 新闻, URL: http://114.254.89.75:2222/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: CCTV13 新闻, URL: http://125.34.16.103:7777/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 496ms
-Name: CCTV13 新闻, URL: http://123.113.237.79:8888/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 498ms
-Name: CCTV13 新闻, URL: http://114.254.88.184:2222/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: CCTV13 新闻, URL: http://115.171.80.59:8888/rtp/225.1.1.10:8128$1920x1080, Date: None, Resolution: None, Response Time: 555ms
-Name: CCTV13 新闻, URL: http://1.203.77.170:7788/rtp/225.1.1.10:8128$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: CCTV13 新闻, URL: http://123.101.98.26:2000/rtp/239.16.10.111:2000$1920x1080, Date: None, Resolution: None, Response Time: 566ms
-Name: CCTV13 新闻, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 703ms
-Name: CCTV13 新闻, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 786ms
-Name: CCTV14 少儿, URL: http://115.60.253.201:9999/rtp/225.1.4.80:1109$1920x1080, Date: None, Resolution: None, Response Time: 420ms
-Name: CCTV14 少儿, URL: http://114.245.104.135:8888/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: CCTV14 少儿, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: CCTV14 少儿, URL: http://124.65.0.167:20000/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 437ms
-Name: CCTV14 少儿, URL: http://222.129.32.10:8888/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 440ms
-Name: CCTV14 少儿, URL: http://123.113.237.79:8888/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 454ms
-Name: CCTV14 少儿, URL: http://182.115.230.52:4022/rtp/225.1.4.80:1109$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: CCTV14 少儿, URL: http://58.41.27.144:18888/rtp/239.45.3.23:5140$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: CCTV14 少儿, URL: http://182.32.160.19:9997/rtp/239.21.1.157:5002$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: CCTV14 少儿, URL: http://115.171.80.59:8888/rtp/225.1.8.14:8132$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: CCTV15 音乐, URL: http://124.65.0.167:20000/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 436ms
-Name: CCTV15 音乐, URL: http://182.115.230.52:4022/rtp/225.1.4.216:1269$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: CCTV15 音乐, URL: http://114.245.104.135:8888/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 477ms
-Name: CCTV15 音乐, URL: http://114.254.89.75:2222/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 491ms
-Name: CCTV15 音乐, URL: http://116.21.123.109:8000/rtp/239.77.1.239:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: CCTV15 音乐, URL: http://182.32.160.19:9997/rtp/239.21.2.4:5002$1920x1080, Date: None, Resolution: None, Response Time: 544ms
-Name: CCTV15 音乐, URL: http://115.171.80.59:8888/rtp/225.1.8.74:8136$1920x1080, Date: None, Resolution: None, Response Time: 555ms
-Name: CCTV15 音乐, URL: http://1.203.77.170:7788/rtp/225.1.8.74:8136$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: CCTV15 音乐, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 617ms
-Name: CCTV16 奥林匹克, URL: http://114.254.89.75:2222/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 415ms
-Name: CCTV16 奥林匹克, URL: http://114.249.22.163:9000/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 434ms
-Name: CCTV16 奥林匹克, URL: http://124.65.0.167:20000/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: CCTV16 奥林匹克, URL: http://221.219.100.60:4022/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 449ms
-Name: CCTV16 奥林匹克, URL: http://111.196.134.183:20000/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 471ms
-Name: CCTV16 奥林匹克, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 493ms
-Name: CCTV16 奥林匹克, URL: http://123.113.237.79:8888/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 500ms
-Name: CCTV16 奥林匹克, URL: http://116.21.123.109:8000/rtp/239.77.0.165:5146$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV16 奥林匹克, URL: http://113.75.183.80:2086/rtp/239.77.1.98:5146$3840x2160, Date: None, Resolution: None, Response Time: 514ms
-Name: CCTV17 农业农村, URL: http://114.249.220.237:8888/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 427ms
-Name: CCTV17 农业农村, URL: http://114.249.22.163:9000/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: CCTV17 农业农村, URL: http://123.113.237.79:8888/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 453ms
-Name: CCTV17 农业农村, URL: http://182.115.230.52:4022/rtp/225.1.4.226:2506$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: CCTV17 农业农村, URL: http://114.254.89.75:2222/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 490ms
-Name: CCTV17 农业农村, URL: http://180.171.56.119:10000/rtp/239.45.3.52:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: CCTV17 农业农村, URL: http://182.32.160.19:9997/rtp/239.21.1.186:5002$1920x1080, Date: None, Resolution: None, Response Time: 534ms
-Name: CCTV17 农业农村, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 696ms
-Name: CCTV17 农业农村, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 791ms
-Name: CCTV17 农业农村, URL: http://webmail.axxe.top:4022/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 954ms
-Name: 安徽卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 420ms
-Name: 安徽卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 安徽卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 443ms
-Name: 安徽卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 安徽卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 490ms
-Name: 安徽卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: 安徽卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: 安徽卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 521ms
-Name: 安徽卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.159:5002$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: 安徽卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 715ms
-Name: 湖南卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 471ms
-Name: 湖南卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.228:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 湖南卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.233:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 湖南卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.228:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 湖南卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.228:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 湖南卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.233:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 湖南卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.88:5146$1920x1080, Date: None, Resolution: None, Response Time: 533ms
-Name: 湖南卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: 湖南卫视, URL: http://115.171.80.59:8888/rtp/225.1.8.41:8012$1920x1080, Date: None, Resolution: None, Response Time: 554ms
-Name: 湖南卫视, URL: http://114.245.110.101:8888/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 2298ms
-Name: 东方卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 423ms
-Name: 东方卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: 东方卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 440ms
-Name: 东方卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.85:1114$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 东方卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 东方卫视, URL: http://wg.mxmy.net:8888/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: 东方卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.45:8032$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: 东方卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 634ms
-Name: 东方卫视, URL: http://ha.tonyliangli.cn:4022/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 769ms
-Name: 东方卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 1123ms
-Name: 北京卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.81:1110$1920x1080, Date: None, Resolution: None, Response Time: 421ms
-Name: 北京卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.81:1110$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: 北京卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: 北京卫视, URL: http://116.21.123.109:8000/rtp/239.77.1.4:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: 北京卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: 北京卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.91:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 北京卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 北京卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 519ms
-Name: 北京卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.10:2000$1920x1080, Date: None, Resolution: None, Response Time: 549ms
-Name: 北京卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.21:8002$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: 浙江卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: 浙江卫视, URL: http://221.219.100.60:4022/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: 浙江卫视, URL: http://wg.mxmy.net:8888/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 498ms
-Name: 浙江卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: 浙江卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 506ms
-Name: 浙江卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.89:5146$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 浙江卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 浙江卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 浙江卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 527ms
-Name: 浙江卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 956ms
-Name: 江苏卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 江苏卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 江苏卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 453ms
-Name: 江苏卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.83:1112$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 江苏卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.177:5140$1920x1080, Date: None, Resolution: None, Response Time: 502ms
-Name: 江苏卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.90:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: 江苏卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.177:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 江苏卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.177:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 江苏卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 618ms
-Name: 江苏卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 932ms
-Name: 天津卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: 天津卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: 天津卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.86:1115$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: 天津卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 天津卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 495ms
-Name: 天津卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 天津卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.124:5140$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 天津卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.124:5140$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 天津卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.124:5140$1920x1080, Date: None, Resolution: None, Response Time: 522ms
-Name: 山东卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 416ms
-Name: 山东卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: 山东卫视, URL: http://114.245.110.101:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 435ms
-Name: 山东卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: 山东卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 448ms
-Name: 山东卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 461ms
-Name: 山东卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.88:1117$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 山东卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.94:5146$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 山东卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 667ms
-Name: 山东卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 888ms
-Name: 辽宁卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 辽宁卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 427ms
-Name: 辽宁卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 436ms
-Name: 辽宁卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 辽宁卫视, URL: http://114.245.110.101:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 辽宁卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 497ms
-Name: 辽宁卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.123:5140$1920x1080, Date: None, Resolution: None, Response Time: 502ms
-Name: 辽宁卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.123:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 辽宁卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.123:5140$1920x1080, Date: None, Resolution: None, Response Time: 515ms
-Name: 辽宁卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.123:5140$1920x1080, Date: None, Resolution: None, Response Time: 519ms
-Name: 深圳卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 434ms
-Name: 深圳卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 454ms
-Name: 深圳卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 471ms
-Name: 深圳卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 476ms
-Name: 深圳卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.231:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 深圳卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.231:5140$1920x1080, Date: None, Resolution: None, Response Time: 517ms
-Name: 深圳卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.93:5002$1920x1080, Date: None, Resolution: None, Response Time: 536ms
-Name: 深圳卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.43:8020$1920x1080, Date: None, Resolution: None, Response Time: 560ms
-Name: 深圳卫视, URL: http://114.245.110.101:8888/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 897ms
-Name: 深圳卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 1001ms
-Name: 江西卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 423ms
-Name: 江西卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 江西卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 443ms
-Name: 江西卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 446ms
-Name: 江西卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 463ms
-Name: 江西卫视, URL: http://114.245.110.101:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 江西卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 490ms
-Name: 江西卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.122:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 江西卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 526ms
-Name: 江西卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 893ms
-Name: 贵州卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.122:1302$1920x1080, Date: None, Resolution: None, Response Time: 429ms
-Name: 贵州卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 441ms
-Name: 贵州卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 443ms
-Name: 贵州卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.122:1302$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 贵州卫视, URL: http://123.113.248.110:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 496ms
-Name: 贵州卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 贵州卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.230:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: 贵州卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.230:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 贵州卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.80:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: 贵州卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 666ms
-Name: 吉林卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 吉林卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.174:1309$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 吉林卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 433ms
-Name: 吉林卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: 吉林卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 447ms
-Name: 吉林卫视, URL: http://180.171.56.119:10000/rtp/239.45.0.6:5140$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 吉林卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 564ms
-Name: 吉林卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 712ms
-Name: 吉林卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 722ms
-Name: 吉林卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 963ms
-Name: 广东卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 423ms
-Name: 广东卫视, URL: http://123.113.248.110:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 434ms
-Name: 广东卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 437ms
-Name: 广东卫视, URL: http://221.219.100.60:4022/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: 广东卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 444ms
-Name: 广东卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.166:1207$1920x1080, Date: None, Resolution: None, Response Time: 461ms
-Name: 广东卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 472ms
-Name: 广东卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.166:1207$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 广东卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 490ms
-Name: 广东卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 497ms
-Name: 广东卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 500ms
-Name: 广东卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.230:5140$1920x1080, Date: None, Resolution: None, Response Time: 501ms
-Name: 广东卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 广东卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.230:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 广东卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.84:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 广东卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.92:5002$1920x1080, Date: None, Resolution: None, Response Time: 536ms
-Name: 广东卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 750ms
-Name: 广东卫视, URL: http://114.245.110.101:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 1446ms
-Name: 湖北卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 湖北卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 427ms
-Name: 湖北卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 湖北卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.89:1118$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: 湖北卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 462ms
-Name: 湖北卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.239:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 湖北卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.239:5140$1920x1080, Date: None, Resolution: None, Response Time: 518ms
-Name: 湖北卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.163:5002$1920x1080, Date: None, Resolution: None, Response Time: 544ms
-Name: 湖北卫视, URL: http://115.171.80.59:8888/rtp/225.1.8.47:8044$1920x1080, Date: None, Resolution: None, Response Time: 553ms
-Name: 湖北卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 821ms
-Name: 河北卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 471ms
-Name: 河北卫视, URL: http://123.113.248.110:8888/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 489ms
-Name: 河北卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.44:5140$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: 河北卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 505ms
-Name: 河北卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.44:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 河北卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.44:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 河北卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.44:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 河北卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 713ms
-Name: 河北卫视, URL: http://ha.tonyliangli.cn:4022/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 850ms
-Name: 河北卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 1438ms
-Name: 山西卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 508ms
-Name: 山西卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 山西卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: 山西卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 山西卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 山西卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 山西卫视, URL: http://113.75.183.80:2086/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 山西卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 山西卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 519ms
-Name: 重庆卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.157:1308$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 重庆卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 432ms
-Name: 重庆卫视, URL: http://114.249.220.237:8888/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 432ms
-Name: 重庆卫视, URL: http://wg.mxmy.net:8888/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 435ms
-Name: 重庆卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.157:1308$1920x1080, Date: None, Resolution: None, Response Time: 486ms
-Name: 重庆卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 493ms
-Name: 重庆卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 496ms
-Name: 重庆卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: 重庆卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 527ms
-Name: 重庆卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.233:5002$1920x1080, Date: None, Resolution: None, Response Time: 536ms
-Name: 四川卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.151:1306$1920x1080, Date: None, Resolution: None, Response Time: 439ms
-Name: 四川卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.151:1306$1920x1080, Date: None, Resolution: None, Response Time: 460ms
-Name: 四川卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 502ms
-Name: 四川卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.159:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: 四川卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 四川卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 四川卫视, URL: http://113.75.183.80:2086/rtp/239.77.0.159:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 四川卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 518ms
-Name: 四川卫视, URL: http://182.32.160.19:9997/rtp/239.21.2.15:5002$1920x1080, Date: None, Resolution: None, Response Time: 544ms
-Name: 四川卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.20:2000$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: 广西卫视, URL: http://116.233.220.113:1688/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 广西卫视, URL: http://58.41.27.144:18888/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 广西卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 广西卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 广西卫视, URL: http://180.171.56.119:10000/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 515ms
-Name: 广西卫视, URL: http://58.41.30.154:8001/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 515ms
-Name: 广西卫视, URL: http://113.75.183.80:2086/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 518ms
-Name: 广西卫视, URL: http://113.75.183.80:2086/rtp/239.253.43.36:5146$1920x1080, Date: None, Resolution: None, Response Time: 527ms
-Name: 广西卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.18:2000$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: 陕西卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 503ms
-Name: 陕西卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 505ms
-Name: 陕西卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.68:5146$720x576, Date: None, Resolution: None, Response Time: 508ms
-Name: 陕西卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.68:5146$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 陕西卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 陕西卫视, URL: http://116.21.123.109:8000/rtp/239.77.1.54:5146$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 陕西卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 516ms
-Name: 陕西卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 519ms
-Name: 陕西卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.17:2000$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: 甘肃卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.234:5140$720x576, Date: None, Resolution: None, Response Time: 509ms
-Name: 甘肃卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 甘肃卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 甘肃卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.234:5140$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 甘肃卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 甘肃卫视, URL: http://113.75.183.80:2086/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 甘肃卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.234:5140$720x576, Date: None, Resolution: None, Response Time: 515ms
-Name: 甘肃卫视, URL: http://182.32.160.19:9997/rtp/239.21.2.19:5002$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: 甘肃卫视, URL: http://182.32.160.19:9997/rtp/239.21.2.22:5002$1920x1080, Date: None, Resolution: None, Response Time: 544ms
-Name: 甘肃卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.114:2000$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: 宁夏卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 507ms
-Name: 宁夏卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.73:5146$720x576, Date: None, Resolution: None, Response Time: 509ms
-Name: 宁夏卫视, URL: http://116.21.123.109:8000/rtp/239.77.1.47:5146$720x576, Date: None, Resolution: None, Response Time: 509ms
-Name: 宁夏卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.73:5146$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 宁夏卫视, URL: http://14.145.225.21:8888/rtp/239.77.1.47:5146$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: 宁夏卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 515ms
-Name: 宁夏卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 521ms
-Name: 宁夏卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 1517ms
-Name: 青海卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.71:5146$720x576, Date: None, Resolution: None, Response Time: 505ms
-Name: 青海卫视, URL: http://14.145.225.21:8888/rtp/239.77.1.70:5146$720x576, Date: None, Resolution: None, Response Time: 505ms
-Name: 青海卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 青海卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 青海卫视, URL: http://116.21.123.109:8000/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 青海卫视, URL: http://113.75.183.80:2086/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 青海卫视, URL: http://14.145.225.21:8888/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 青海卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 517ms
-Name: 青海卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.107:2000$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: 海南卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.195:1310$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 海南卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 海南卫视, URL: http://116.21.123.109:8000/rtp/239.253.43.35:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: 海南卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 海南卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 515ms
-Name: 海南卫视, URL: http://113.75.183.80:2086/rtp/239.253.43.35:5146$1920x1080, Date: None, Resolution: None, Response Time: 518ms
-Name: 海南卫视, URL: http://113.75.183.80:2086/rtp/239.253.43.101:5146$1920x1080, Date: None, Resolution: None, Response Time: 526ms
-Name: 海南卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.43:2000$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: 新疆卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 新疆卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.75:5146$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 新疆卫视, URL: http://14.145.225.21:8888/rtp/239.77.1.53:5146$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 新疆卫视, URL: http://116.21.123.109:8000/rtp/239.77.1.53:5146$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: 新疆卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.75:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 新疆卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 新疆卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 517ms
-Name: 新疆卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 520ms
-Name: 西藏卫视, URL: http://14.145.225.21:8888/rtp/239.77.1.49:5146$720x576, Date: None, Resolution: None, Response Time: 505ms
-Name: 西藏卫视, URL: http://116.21.123.109:8000/rtp/239.77.1.49:5146$720x576, Date: None, Resolution: None, Response Time: 506ms
-Name: 西藏卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.74:5146$720x576, Date: None, Resolution: None, Response Time: 507ms
-Name: 西藏卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 西藏卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.74:5146$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 西藏卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 西藏卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 514ms
-Name: 西藏卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 516ms
-Name: 内蒙古卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 503ms
-Name: 内蒙古卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.70:5146$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 内蒙古卫视, URL: http://14.145.225.21:8888/rtp/239.77.1.55:5146$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 内蒙古卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 内蒙古卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.70:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 内蒙古卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 内蒙古卫视, URL: http://116.21.123.109:8000/rtp/239.77.1.55:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 内蒙古卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 516ms
-Name: 内蒙古卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 524ms
-Name: 云南卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.152:1307$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 云南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.152:1307$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 云南卫视, URL: http://116.233.220.113:1688/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 云南卫视, URL: http://116.21.123.109:8000/rtp/239.253.43.100:5146$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: 云南卫视, URL: http://58.41.27.144:18888/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 云南卫视, URL: http://58.39.142.6:4022/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 云南卫视, URL: http://113.75.183.80:2086/rtp/239.253.43.37:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 云南卫视, URL: http://180.171.56.119:10000/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 云南卫视, URL: http://58.41.30.154:8001/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 云南卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.19:2000$1920x1080, Date: None, Resolution: None, Response Time: 548ms
-Name: 东南卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 424ms
-Name: 东南卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: 东南卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 505ms
-Name: 东南卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.146:5146$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 东南卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.146:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 东南卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.121:5140$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 东南卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.121:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 东南卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.121:5140$1920x1080, Date: None, Resolution: None, Response Time: 522ms
-Name: 东南卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.16:2000$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: 东南卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 996ms
-Name: 河南卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 428ms
-Name: 河南卫视, URL: http://115.60.241.249:2000/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 432ms
-Name: 河南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 487ms
-Name: 河南卫视, URL: http://116.21.123.109:8000/rtp/239.77.0.17:5146$1920x1080, Date: None, Resolution: None, Response Time: 508ms
-Name: 河南卫视, URL: http://58.39.142.6:4022/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 河南卫视, URL: http://180.171.56.119:10000/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 河南卫视, URL: http://58.41.30.154:8001/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 河南卫视, URL: http://58.41.27.144:18888/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 524ms
-Name: 河南卫视, URL: http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 572ms
-Name: 三沙卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 510ms
-Name: 三沙卫视, URL: http://116.21.123.109:8000/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 三沙卫视, URL: http://14.145.225.21:8888/rtp/239.77.1.117:5146$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 三沙卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 三沙卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: 三沙卫视, URL: http://183.54.208.219:9999/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 三沙卫视, URL: http://14.145.225.21:8888/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: 三沙卫视, URL: http://113.75.183.80:2086/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 三沙卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 514ms
-Name: 兵团卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 504ms
-Name: 兵团卫视, URL: http://116.233.220.113:1688/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 509ms
-Name: 兵团卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 兵团卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.117:5140$720x576, Date: None, Resolution: None, Response Time: 511ms
-Name: 兵团卫视, URL: http://58.39.142.6:4022/rtp/239.45.1.117:5140$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: 兵团卫视, URL: http://14.145.225.21:8888/rtp/239.77.0.77:5146$720x576, Date: None, Resolution: None, Response Time: 513ms
-Name: 兵团卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 兵团卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.117:5140$720x576, Date: None, Resolution: None, Response Time: 514ms
-Name: 兵团卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.117:5140$720x576, Date: None, Resolution: None, Response Time: 515ms
-Name: 兵团卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: 黑龙江卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 425ms
-Name: 黑龙江卫视, URL: http://115.60.253.201:9999/rtp/225.1.4.91:1120$1920x1080, Date: None, Resolution: None, Response Time: 428ms
-Name: 黑龙江卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 446ms
-Name: 黑龙江卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.91:1120$1920x1080, Date: None, Resolution: None, Response Time: 487ms
-Name: 黑龙江卫视, URL: http://webmail.axxe.top:4022/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 493ms
-Name: 黑龙江卫视, URL: http://58.39.142.6:4022/rtp/239.45.3.232:5140$1920x1080, Date: None, Resolution: None, Response Time: 512ms
-Name: 黑龙江卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.232:5140$1920x1080, Date: None, Resolution: None, Response Time: 517ms
-Name: 黑龙江卫视, URL: http://182.32.160.19:9997/rtp/239.21.1.91:5002$1920x1080, Date: None, Resolution: None, Response Time: 535ms
-Name: 黑龙江卫视, URL: http://123.101.98.26:2000/rtp/239.16.10.105:2000$1920x1080, Date: None, Resolution: None, Response Time: 548ms
-Name: 黑龙江卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 722ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 505ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 506ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 512ms
-Name: 广东体育, URL: http://113.75.183.80:2086/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 广东体育, URL: http://183.54.208.219:9999/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 514ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 515ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 516ms
-Name: 广东体育, URL: http://113.75.183.80:2086/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 518ms
-Name: 广东体育, URL: http://113.75.183.80:2086/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 524ms
-Name: 广东体育, URL: http://113.75.183.80:2086/rtp/239.77.1.97:5146$720x576, Date: None, Resolution: None, Response Time: 526ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 527ms
-Name: CCTV 5体育, URL: http://114.249.220.237:8888/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 425ms
-Name: CCTV 5体育, URL: http://114.249.22.163:9000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 432ms
-Name: CCTV 5体育, URL: http://222.129.32.10:8888/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 438ms
-Name: CCTV 5体育, URL: http://124.65.0.167:20000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 446ms
-Name: CCTV 5体育, URL: http://125.34.16.103:7777/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 505ms
-Name: CCTV 5体育, URL: http://183.54.208.219:9999/rtp/239.253.43.121:5146$1920x1080, Date: None, Resolution: None, Response Time: 513ms
-Name: CCTV 5体育, URL: http://115.171.80.59:8888/rtp/225.1.8.89:8000$1920x1080, Date: None, Resolution: None, Response Time: 554ms
-Name: CCTV 5体育, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 717ms
-Name: CCTV 5体育, URL: http://114.254.88.184:2222/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 794ms
-Name: CCTV 5+体育赛事, URL: http://114.249.220.237:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 426ms
-Name: CCTV 5+体育赛事, URL: http://114.249.22.163:9000/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 442ms
-Name: CCTV 5+体育赛事, URL: http://drive.mxmy.net:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 479ms
-Name: CCTV 5+体育赛事, URL: http://wg.mxmy.net:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 482ms
-Name: CCTV 5+体育赛事, URL: http://182.115.230.52:4022/rtp/225.1.4.75:1104$1920x1080, Date: None, Resolution: None, Response Time: 488ms
-Name: CCTV 5+体育赛事, URL: http://123.113.248.110:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 488ms
-Name: CCTV 5+体育赛事, URL: http://116.21.123.109:8000/rtp/239.77.0.87:5146$1920x1080, Date: None, Resolution: None, Response Time: 507ms
-Name: CCTV 5+体育赛事, URL: http://115.171.80.59:8888/rtp/225.1.8.20:8004$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: CCTV 5+体育赛事, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 628ms
-Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 503ms
-Name: 五星体育, URL: http://58.41.132.112:8686/rtp/239.45.3.210:5140, Date: None, Resolution: None, Response Time: 508ms
-Name: 五星体育, URL: http://58.39.142.6:4022/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 510ms
-Name: 五星体育, URL: http://116.233.220.113:1688/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 511ms
-Name: 五星体育, URL: http://180.171.56.119:10000/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 514ms
-Name: 五星体育, URL: http://58.41.30.154:8001/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 517ms
-Name: 五星体育, URL: http://58.41.30.154:8001/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 520ms
-Name: 五星体育, URL: http://116.226.36.186:8088/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 541ms
-Name: 五星体育, URL: http://139.196.151.191:2051/rtp/239.45.3.210:5140, Date: None, Resolution: None, Response Time: 2512ms
-Name: 快乐垂钓, URL: http://115.171.80.59:8888/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 537ms
-Name: 快乐垂钓, URL: http://115.171.216.22:4000/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 543ms
-Name: 快乐垂钓, URL: http://123.101.98.26:2000/rtp/239.16.10.236:2000$1920x1080, Date: None, Resolution: None, Response Time: 547ms
-Name: 快乐垂钓, URL: http://1.202.9.192:8888/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 557ms
-Name: 快乐垂钓, URL: http://1.203.77.170:7788/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: 快乐垂钓, URL: http://1.203.184.153:4000/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 559ms
-Name: 快乐垂钓, URL: http://115.171.216.54:4000/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 1578ms
-Name: 快乐垂钓, URL: http://123.101.98.235:2000/rtp/239.16.10.236:2000$1920x1080, Date: None, Resolution: None, Response Time: 2886ms
-Name: 茶, URL: http://1.202.9.192:8888/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 531ms
-Name: 茶, URL: http://115.171.216.22:4000/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 531ms
-Name: 茶, URL: http://1.203.184.153:4000/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 537ms
-Name: 茶, URL: http://115.171.80.59:8888/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: 茶, URL: http://1.203.77.170:7788/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 551ms
-Name: 茶, URL: http://123.101.98.26:2000/rtp/239.16.10.237:2000$1920x1080, Date: None, Resolution: None, Response Time: 552ms
-Name: 茶, URL: http://115.171.216.54:4000/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 574ms
-Name: 茶, URL: http://123.101.98.235:2000/rtp/239.16.10.237:2000$1920x1080, Date: None, Resolution: None, Response Time: 2897ms
-Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv, Date: None, Resolution: None, Response Time: 436ms
+Name: 安徽卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 459ms
+Name: 安徽卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 安徽卫视, URL: http://119.125.135.202:11/rtp/239.77.0.183:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 安徽卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.183:5146$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 安徽卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 479ms
+Name: 安徽卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 481ms
+Name: 安徽卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 安徽卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.183:5146$1920x1080, Date: None, Resolution: None, Response Time: 486ms
+Name: 安徽卫视, URL: http://114.246.102.14:4000/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: 安徽卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.52:8064$1920x1080, Date: None, Resolution: None, Response Time: 514ms
+Name: CCTV1 综合, URL: http://58.41.30.154:8001/rtp/239.45.3.145:5140$1920x1080, Date: None, Resolution: None, Response Time: 455ms
+Name: CCTV1 综合, URL: http://119.125.135.202:11/rtp/239.77.0.119:5146$1920x1080, Date: None, Resolution: None, Response Time: 467ms
+Name: CCTV1 综合, URL: http://182.115.230.52:4022/rtp/225.1.4.73:1102$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: CCTV1 综合, URL: http://119.125.135.202:11/rtp/239.77.0.86:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV1 综合, URL: http://183.54.208.219:9999/rtp/239.77.1.17:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV1 综合, URL: http://113.110.231.208:4022/rtp/239.77.0.86:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV1 综合, URL: http://218.80.110.51:4022/rtp/239.45.3.145:5140$1920x1080, Date: None, Resolution: None, Response Time: 477ms
+Name: CCTV1 综合, URL: http://58.41.27.144:18888/rtp/239.45.3.145:5140$1920x1080, Date: None, Resolution: None, Response Time: 478ms
+Name: CCTV1 综合, URL: http://113.86.204.209:4022/rtp/239.77.0.129:5146$1920x1080, Date: None, Resolution: None, Response Time: 485ms
+Name: CCTV1 综合, URL: http://221.219.101.215:8012/rtp/239.3.1.129:8008$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV2 财经, URL: http://111.196.134.183:20000/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 477ms
+Name: CCTV2 财经, URL: http://119.125.135.202:11/rtp/239.77.0.137:5146$1920x1080, Date: None, Resolution: None, Response Time: 479ms
+Name: CCTV2 财经, URL: http://123.13.247.38:4000/rtp/225.1.4.74:1103$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: CCTV2 财经, URL: http://114.253.73.128:8686/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: CCTV2 财经, URL: http://221.219.101.215:8012/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: CCTV2 财经, URL: http://125.34.16.103:7777/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 505ms
+Name: CCTV2 财经, URL: http://115.171.80.59:8888/rtp/225.1.8.2:8084$1920x1080, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV2 财经, URL: http://182.115.230.52:4022/rtp/225.1.4.74:1103$1920x1080, Date: None, Resolution: None, Response Time: 520ms
+Name: CCTV2 财经, URL: http://221.219.100.60:4022/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 551ms
+Name: CCTV2 财经, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.60:8084$1920x1080, Date: None, Resolution: None, Response Time: 835ms
+Name: CCTV3 综艺, URL: http://113.101.245.175:9988/rtp/239.77.0.169:5146$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: CCTV3 综艺, URL: http://116.233.220.113:1688/rtp/239.45.1.68:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: CCTV3 综艺, URL: http://123.117.37.103:4000/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 494ms
+Name: CCTV3 综艺, URL: http://61.149.237.171:8686/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 499ms
+Name: CCTV3 综艺, URL: http://124.65.0.167:20000/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 499ms
+Name: CCTV3 综艺, URL: http://114.246.102.14:4000/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 509ms
+Name: CCTV3 综艺, URL: http://1.203.77.170:7788/rtp/225.1.8.88:8000$1920x1080, Date: None, Resolution: None, Response Time: 513ms
+Name: CCTV3 综艺, URL: http://115.171.80.59:8888/rtp/225.1.8.88:8000$1920x1080, Date: None, Resolution: None, Response Time: 528ms
+Name: CCTV3 综艺, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.172:8001$1920x1080, Date: None, Resolution: None, Response Time: 737ms
+Name: CCTV4 中文国际, URL: http://182.115.230.52:4022/rtp/225.1.4.4:1033$720x576, Date: None, Resolution: None, Response Time: 471ms
+Name: CCTV4 中文国际, URL: http://113.110.231.208:4022/rtp/239.77.0.33:5146$720x576, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV4 中文国际, URL: http://119.125.135.202:11/rtp/239.77.0.33:5146$720x576, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV4 中文国际, URL: http://113.68.179.40:4022/rtp/239.77.0.33:5146$720x576, Date: None, Resolution: None, Response Time: 477ms
+Name: CCTV4 中文国际, URL: http://123.13.247.38:4000/rtp/225.1.4.4:1033$720x576, Date: None, Resolution: None, Response Time: 487ms
+Name: CCTV4 中文国际, URL: http://113.86.204.209:4022/rtp/239.77.0.33:5146$720x576, Date: None, Resolution: None, Response Time: 489ms
+Name: CCTV4 中文国际, URL: http://1.203.77.170:7788/rtp/225.1.8.104:8216$720x576, Date: None, Resolution: None, Response Time: 503ms
+Name: CCTV4 中文国际, URL: http://1.203.184.153:4000/rtp/225.1.8.104:8216$720x576, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV4 中文国际, URL: http://115.171.80.59:8888/rtp/225.1.8.104:8216$720x576, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV4 中文国际, URL: http://115.171.216.22:4000/rtp/225.1.8.104:8216$720x576, Date: None, Resolution: None, Response Time: 529ms
+Name: CCTV5 体育, URL: http://58.41.30.154:8001/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 457ms
+Name: CCTV5 体育, URL: http://180.171.56.119:10000/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 459ms
+Name: CCTV5 体育, URL: http://58.41.27.144:18888/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 462ms
+Name: CCTV5 体育, URL: http://183.54.208.204:9999/rtp/239.77.0.170:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV5 体育, URL: http://116.233.220.113:1688/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV5 体育, URL: http://218.80.110.51:4022/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: CCTV5 体育, URL: http://61.149.237.171:8686/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 499ms
+Name: CCTV5 体育, URL: http://123.117.37.103:4000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 554ms
+Name: CCTV5 体育, URL: http://221.219.101.215:8012/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV5 体育, URL: http://183.54.208.219:9999/rtp/239.77.0.170:5146$1920x1080, Date: None, Resolution: None, Response Time: 2731ms
+Name: CCTV5+ 体育赛事, URL: http://114.254.88.184:2222/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: CCTV5+ 体育赛事, URL: http://182.115.230.52:4022/rtp/225.1.4.75:1104$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: CCTV5+ 体育赛事, URL: http://119.125.135.202:11/rtp/239.77.0.87:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV5+ 体育赛事, URL: http://113.68.179.40:4022/rtp/239.77.0.87:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: CCTV5+ 体育赛事, URL: http://123.13.247.38:4000/rtp/225.1.4.75:1104$1920x1080, Date: None, Resolution: None, Response Time: 487ms
+Name: CCTV5+ 体育赛事, URL: http://114.253.73.128:8686/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 490ms
+Name: CCTV5+ 体育赛事, URL: http://123.113.237.79:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: CCTV5+ 体育赛事, URL: http://114.254.89.75:2222/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 526ms
+Name: CCTV5+ 体育赛事, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 755ms
+Name: CCTV5+ 体育赛事, URL: http://61.149.237.171:8686/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 798ms
+Name: CCTV6 电影, URL: http://58.41.30.154:8001/rtp/239.45.1.70:5140$1920x1080, Date: None, Resolution: None, Response Time: 462ms
+Name: CCTV6 电影, URL: http://119.125.135.202:11/rtp/239.77.0.171:5146$1920x1080, Date: None, Resolution: None, Response Time: 466ms
+Name: CCTV6 电影, URL: http://222.129.32.10:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: CCTV6 电影, URL: http://114.254.89.75:2222/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: CCTV6 电影, URL: http://123.113.237.79:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 491ms
+Name: CCTV6 电影, URL: http://111.196.185.170:5555/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 499ms
+Name: CCTV6 电影, URL: http://115.171.216.22:4000/rtp/225.1.8.84:8000$1920x1080, Date: None, Resolution: None, Response Time: 525ms
+Name: CCTV6 电影, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 792ms
+Name: CCTV6 电影, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 807ms
+Name: CCTV6 电影, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.174:8001$1920x1080, Date: None, Resolution: None, Response Time: 816ms
+Name: CCTV7 国防军事, URL: http://124.65.0.167:20000/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 503ms
+Name: CCTV7 国防军事, URL: http://1.203.77.170:7788/rtp/225.1.8.7:8104$1920x1080, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV7 国防军事, URL: http://115.171.216.22:4000/rtp/225.1.8.7:8104$1920x1080, Date: None, Resolution: None, Response Time: 520ms
+Name: CCTV7 国防军事, URL: http://111.196.185.170:5555/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 522ms
+Name: CCTV7 国防军事, URL: http://114.254.89.75:2222/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 527ms
+Name: CCTV7 国防军事, URL: http://114.249.22.163:9000/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV7 国防军事, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 738ms
+Name: CCTV7 国防军事, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 765ms
+Name: CCTV7 国防军事, URL: http://sweetown.fun:4000/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 838ms
+Name: CCTV7 国防军事, URL: http://61.149.237.171:8686/rtp/239.3.1.61:8104$1920x1080, Date: None, Resolution: None, Response Time: 3259ms
+Name: CCTV8 电视剧, URL: http://58.41.30.154:8001/rtp/239.45.1.71:5140$1920x1080, Date: None, Resolution: None, Response Time: 463ms
+Name: CCTV8 电视剧, URL: http://182.115.230.52:4022/rtp/225.1.4.161:1197$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV8 电视剧, URL: http://111.196.134.183:20000/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: CCTV8 电视剧, URL: http://58.41.27.144:18888/rtp/239.45.1.71:5140$1920x1080, Date: None, Resolution: None, Response Time: 478ms
+Name: CCTV8 电视剧, URL: http://111.196.185.170:5555/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 499ms
+Name: CCTV8 电视剧, URL: http://1.203.77.170:7788/rtp/225.1.8.85:8000$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: CCTV8 电视剧, URL: http://123.117.37.103:4000/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 553ms
+Name: CCTV8 电视剧, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 813ms
+Name: CCTV8 电视剧, URL: http://sweetown.fun:4000/rtp/239.3.1.175:8001$1920x1080, Date: None, Resolution: None, Response Time: 831ms
+Name: CCTV9 纪录, URL: http://116.233.220.113:1688/rtp/239.45.3.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 447ms
+Name: CCTV9 纪录, URL: http://180.171.56.119:10000/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 458ms
+Name: CCTV9 纪录, URL: http://218.80.110.51:4022/rtp/239.45.3.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 460ms
+Name: CCTV9 纪录, URL: http://58.41.27.144:18888/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 462ms
+Name: CCTV9 纪录, URL: http://116.233.220.113:1688/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV9 纪录, URL: http://218.80.110.51:4022/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 474ms
+Name: CCTV9 纪录, URL: http://58.41.30.154:8001/rtp/239.45.1.108:5140$3840x2160, Date: None, Resolution: None, Response Time: 476ms
+Name: CCTV9 纪录, URL: http://61.149.237.171:8686/rtp/239.3.1.62:8112$1920x1080, Date: None, Resolution: None, Response Time: 498ms
+Name: CCTV9 纪录, URL: http://115.171.80.59:8888/rtp/225.1.8.9:8112$1920x1080, Date: None, Resolution: None, Response Time: 519ms
+Name: CCTV9 纪录, URL: http://182.115.230.52:4022/rtp/225.1.4.77:1106$1920x1080, Date: None, Resolution: None, Response Time: 530ms
+Name: CCTV10 科教, URL: http://180.171.56.119:10000/rtp/239.45.3.8:5140$1920x1080, Date: None, Resolution: None, Response Time: 459ms
+Name: CCTV10 科教, URL: http://218.80.110.51:4022/rtp/239.45.3.8:5140$1920x1080, Date: None, Resolution: None, Response Time: 467ms
+Name: CCTV10 科教, URL: http://111.196.134.183:20000/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: CCTV10 科教, URL: http://119.125.135.202:11/rtp/239.77.1.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: CCTV10 科教, URL: http://125.34.16.103:7777/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 506ms
+Name: CCTV10 科教, URL: http://115.171.80.59:8888/rtp/225.1.8.10:8116$1920x1080, Date: None, Resolution: None, Response Time: 523ms
+Name: CCTV10 科教, URL: http://221.219.100.60:4022/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: CCTV10 科教, URL: http://221.219.101.215:8012/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 554ms
+Name: CCTV10 科教, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.63:8116$1920x1080, Date: None, Resolution: None, Response Time: 820ms
+Name: CCTV11 戏曲, URL: http://114.254.88.184:2222/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV11 戏曲, URL: http://182.115.230.52:4022/rtp/225.1.4.215:1268$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: CCTV11 戏曲, URL: http://113.110.231.208:4022/rtp/239.77.1.238:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV11 戏曲, URL: http://114.253.73.128:8686/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: CCTV11 戏曲, URL: http://123.113.237.79:8888/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: CCTV11 戏曲, URL: http://114.246.102.14:4000/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: CCTV11 戏曲, URL: http://114.254.89.75:2222/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 528ms
+Name: CCTV11 戏曲, URL: http://114.249.22.163:9000/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: CCTV11 戏曲, URL: http://61.149.237.171:8686/rtp/239.3.1.152:8120$1920x1080, Date: None, Resolution: None, Response Time: 1526ms
+Name: CCTV12 社会与法, URL: http://113.68.179.40:4022/rtp/239.77.0.136:5146$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: CCTV12 社会与法, URL: http://113.86.204.209:4022/rtp/239.77.0.136:5146$1920x1080, Date: None, Resolution: None, Response Time: 487ms
+Name: CCTV12 社会与法, URL: http://114.245.104.135:8888/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: CCTV12 社会与法, URL: http://125.34.16.103:7777/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: CCTV12 社会与法, URL: http://1.203.77.170:7788/rtp/225.1.8.12:8124$1920x1080, Date: None, Resolution: None, Response Time: 513ms
+Name: CCTV12 社会与法, URL: http://115.171.80.59:8888/rtp/225.1.8.12:8124$1920x1080, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV12 社会与法, URL: http://115.171.216.22:4000/rtp/225.1.8.12:8124$1920x1080, Date: None, Resolution: None, Response Time: 523ms
+Name: CCTV12 社会与法, URL: http://221.219.100.60:4022/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: CCTV12 社会与法, URL: http://123.117.37.103:4000/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 553ms
+Name: CCTV12 社会与法, URL: http://221.219.101.215:8012/rtp/239.3.1.64:8124$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV13 新闻, URL: http://113.68.179.40:4022/rtp/239.77.0.188:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV13 新闻, URL: http://182.115.230.52:4022/rtp/225.1.4.113:1293$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: CCTV13 新闻, URL: http://119.125.135.202:11/rtp/239.77.0.188:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: CCTV13 新闻, URL: http://113.86.204.209:4022/rtp/239.77.0.188:5146$1920x1080, Date: None, Resolution: None, Response Time: 480ms
+Name: CCTV13 新闻, URL: http://114.253.73.128:8686/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: CCTV13 新闻, URL: http://61.149.237.171:8686/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 498ms
+Name: CCTV13 新闻, URL: http://114.254.89.75:2222/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 526ms
+Name: CCTV13 新闻, URL: http://drive.mxmy.net:8888/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 535ms
+Name: CCTV13 新闻, URL: http://114.249.22.163:9000/rtp/239.3.1.124:8128$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: CCTV14 少儿, URL: http://113.110.231.208:4022/rtp/239.77.0.133:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV14 少儿, URL: http://114.254.89.75:2222/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 493ms
+Name: CCTV14 少儿, URL: http://123.113.237.79:8888/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: CCTV14 少儿, URL: http://114.246.102.14:4000/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: CCTV14 少儿, URL: http://61.149.237.171:8686/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: CCTV14 少儿, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV14 少儿, URL: http://221.219.101.215:8012/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV14 少儿, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 723ms
+Name: CCTV14 少儿, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.65:8132$1920x1080, Date: None, Resolution: None, Response Time: 792ms
+Name: CCTV15 音乐, URL: http://114.254.88.184:2222/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV15 音乐, URL: http://114.253.73.128:8686/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: CCTV15 音乐, URL: http://222.129.32.10:8888/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: CCTV15 音乐, URL: http://124.65.0.167:20000/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: CCTV15 音乐, URL: http://114.254.89.75:2222/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 526ms
+Name: CCTV15 音乐, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 770ms
+Name: CCTV15 音乐, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 772ms
+Name: CCTV15 音乐, URL: http://sweetown.fun:4000/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 928ms
+Name: CCTV15 音乐, URL: http://61.149.237.171:8686/rtp/239.3.1.153:8136$1920x1080, Date: None, Resolution: None, Response Time: 1296ms
+Name: CCTV16 奥林匹克, URL: http://119.125.135.202:11/rtp/239.77.0.165:5146$1920x1080, Date: None, Resolution: None, Response Time: 467ms
+Name: CCTV16 奥林匹克, URL: http://119.125.135.202:11/rtp/239.77.1.98:5146$3840x2160, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV16 奥林匹克, URL: http://113.110.231.208:4022/rtp/239.77.0.165:5146$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: CCTV16 奥林匹克, URL: http://114.253.73.128:8686/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: CCTV16 奥林匹克, URL: http://114.254.89.75:2222/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: CCTV16 奥林匹克, URL: http://222.129.32.10:8888/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 492ms
+Name: CCTV16 奥林匹克, URL: http://114.245.104.135:8888/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 503ms
+Name: CCTV16 奥林匹克, URL: http://124.65.0.167:20000/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 506ms
+Name: CCTV16 奥林匹克, URL: http://114.249.22.163:9000/rtp/239.3.1.184:8001$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: CCTV17 农业农村, URL: http://180.171.56.119:10000/rtp/239.45.3.52:5140$1920x1080, Date: None, Resolution: None, Response Time: 456ms
+Name: CCTV17 农业农村, URL: http://182.115.230.52:4022/rtp/225.1.4.226:2506$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV17 农业农村, URL: http://218.80.110.51:4022/rtp/239.45.3.52:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: CCTV17 农业农村, URL: http://58.41.27.144:18888/rtp/239.45.3.52:5140$1920x1080, Date: None, Resolution: None, Response Time: 479ms
+Name: CCTV17 农业农村, URL: http://113.110.231.208:4022/rtp/239.77.0.198:5146$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: CCTV17 农业农村, URL: http://61.149.237.171:8686/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 498ms
+Name: CCTV17 农业农村, URL: http://123.113.237.79:8888/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: CCTV17 农业农村, URL: http://221.219.100.60:4022/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: CCTV17 农业农村, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.151:8144$1920x1080, Date: None, Resolution: None, Response Time: 559ms
+Name: 安徽卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 457ms
+Name: 安徽卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 安徽卫视, URL: http://119.125.135.202:11/rtp/239.77.0.183:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 安徽卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.183:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 安徽卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.120:5140$1920x1080, Date: None, Resolution: None, Response Time: 480ms
+Name: 安徽卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 安徽卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.183:5146$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: 安徽卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.87:1116$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: 安徽卫视, URL: http://114.246.102.14:4000/rtp/239.3.1.211:8064$1920x1080, Date: None, Resolution: None, Response Time: 509ms
+Name: 安徽卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.52:8064$1920x1080, Date: None, Resolution: None, Response Time: 523ms
+Name: 湖南卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.228:5140$1920x1080, Date: None, Resolution: None, Response Time: 462ms
+Name: 湖南卫视, URL: http://218.80.110.51:4022/rtp/239.45.3.233:5140$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 湖南卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.88:5146$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 湖南卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 503ms
+Name: 湖南卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: 湖南卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 517ms
+Name: 湖南卫视, URL: http://115.171.80.59:8888/rtp/225.1.8.41:8012$1920x1080, Date: None, Resolution: None, Response Time: 518ms
+Name: 湖南卫视, URL: http://123.117.37.103:4000/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 553ms
+Name: 湖南卫视, URL: http://221.219.101.215:8012/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: 湖南卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.132:8012$1920x1080, Date: None, Resolution: None, Response Time: 830ms
+Name: 东方卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.146:5140$1920x1080, Date: None, Resolution: None, Response Time: 458ms
+Name: 东方卫视, URL: http://119.125.135.202:11/rtp/239.77.0.98:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 东方卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.98:5146$1920x1080, Date: None, Resolution: None, Response Time: 485ms
+Name: 东方卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 491ms
+Name: 东方卫视, URL: http://123.117.37.103:4000/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 494ms
+Name: 东方卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: 东方卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 503ms
+Name: 东方卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 506ms
+Name: 东方卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.136:8032$1920x1080, Date: None, Resolution: None, Response Time: 720ms
+Name: 北京卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 460ms
+Name: 北京卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 464ms
+Name: 北京卫视, URL: http://113.101.245.175:9988/rtp/239.77.1.4:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 北京卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.81:1110$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 北京卫视, URL: http://116.233.220.113:1688/rtp/239.45.3.229:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 北京卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.91:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 北京卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.81:1110$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: 北京卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.21:8002$1920x1080, Date: None, Resolution: None, Response Time: 510ms
+Name: 北京卫视, URL: http://115.171.216.22:4000/rtp/225.1.8.21:8002$1920x1080, Date: None, Resolution: None, Response Time: 524ms
+Name: 浙江卫视, URL: http://116.233.220.113:1688/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 446ms
+Name: 浙江卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 458ms
+Name: 浙江卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 463ms
+Name: 浙江卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: 浙江卫视, URL: http://119.125.135.202:11/rtp/239.77.0.89:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 浙江卫视, URL: http://218.80.110.51:4022/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 浙江卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.178:5140$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 浙江卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.89:5146$1920x1080, Date: None, Resolution: None, Response Time: 485ms
+Name: 浙江卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 505ms
+Name: 浙江卫视, URL: http://114.246.102.14:4000/rtp/239.3.1.137:8036$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: 江苏卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.177:5140$1920x1080, Date: None, Resolution: None, Response Time: 464ms
+Name: 江苏卫视, URL: http://119.125.135.202:11/rtp/239.77.1.18:5146$1920x1080, Date: None, Resolution: None, Response Time: 467ms
+Name: 江苏卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.90:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 江苏卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 江苏卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 492ms
+Name: 江苏卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: 江苏卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 535ms
+Name: 江苏卫视, URL: http://221.219.101.215:8012/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: 江苏卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.135:8028$1920x1080, Date: None, Resolution: None, Response Time: 1496ms
+Name: 天津卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.124:5140$1920x1080, Date: None, Resolution: None, Response Time: 478ms
+Name: 天津卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.124:5140$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: 天津卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.86:1115$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 天津卫视, URL: http://221.219.101.215:8012/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 500ms
+Name: 天津卫视, URL: http://125.34.16.103:7777/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 505ms
+Name: 天津卫视, URL: http://1.203.77.170:7788/rtp/225.1.8.48:8044$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: 天津卫视, URL: http://115.171.216.22:4000/rtp/225.1.8.48:8044$1920x1080, Date: None, Resolution: None, Response Time: 522ms
+Name: 天津卫视, URL: http://221.219.100.60:4022/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: 天津卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.141:1234$1920x1080, Date: None, Resolution: None, Response Time: 601ms
+Name: 山东卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.94:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 山东卫视, URL: http://218.80.110.51:4022/rtp/239.45.3.238:5140$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 山东卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 山东卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 山东卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 山东卫视, URL: http://61.149.237.171:8686/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 500ms
+Name: 山东卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 500ms
+Name: 山东卫视, URL: http://183.54.208.204:9999/rtp/239.77.0.94:5146$1920x1080, Date: None, Resolution: None, Response Time: 712ms
+Name: 山东卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.209:8052$1920x1080, Date: None, Resolution: None, Response Time: 766ms
+Name: 辽宁卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.123:5140$1920x1080, Date: None, Resolution: None, Response Time: 459ms
+Name: 辽宁卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.123:5146$1920x1080, Date: None, Resolution: None, Response Time: 459ms
+Name: 辽宁卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 500ms
+Name: 辽宁卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: 辽宁卫视, URL: http://61.149.237.171:8686/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: 辽宁卫视, URL: http://114.246.102.14:4000/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 512ms
+Name: 辽宁卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 530ms
+Name: 辽宁卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 549ms
+Name: 辽宁卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: 辽宁卫视, URL: http://sweetown.fun:4000/rtp/239.3.1.210:8056$1920x1080, Date: None, Resolution: None, Response Time: 830ms
+Name: 深圳卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.231:5140$1920x1080, Date: None, Resolution: None, Response Time: 457ms
+Name: 深圳卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.90:1119$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 深圳卫视, URL: http://218.80.110.51:4022/rtp/239.45.3.231:5140$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 深圳卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.231:5140$1920x1080, Date: None, Resolution: None, Response Time: 480ms
+Name: 深圳卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 深圳卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: 深圳卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 505ms
+Name: 深圳卫视, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 722ms
+Name: 深圳卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.134:8020$1920x1080, Date: None, Resolution: None, Response Time: 821ms
+Name: 江西卫视, URL: http://111.196.134.183:20000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 江西卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 江西卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 492ms
+Name: 江西卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: 江西卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: 江西卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 530ms
+Name: 江西卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.139:1305$1920x1080, Date: None, Resolution: None, Response Time: 530ms
+Name: 江西卫视, URL: http://123.117.37.103:4000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: 江西卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.123:8164$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: 贵州卫视, URL: http://113.68.179.40:4022/rtp/239.77.1.221:5146$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 贵州卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 贵州卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.122:1302$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 贵州卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 493ms
+Name: 贵州卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: 贵州卫视, URL: http://221.219.100.60:4022/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: 贵州卫视, URL: http://221.219.101.215:8012/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: 贵州卫视, URL: http://61.149.237.171:8686/rtp/239.3.1.149:8076$1920x1080, Date: None, Resolution: None, Response Time: 1015ms
+Name: 吉林卫视, URL: http://58.41.30.154:8001/rtp/239.45.0.6:5140$1920x1080, Date: None, Resolution: None, Response Time: 466ms
+Name: 吉林卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 吉林卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 490ms
+Name: 吉林卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: 吉林卫视, URL: http://114.246.102.14:4000/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 508ms
+Name: 吉林卫视, URL: http://61.149.237.171:8686/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 513ms
+Name: 吉林卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 526ms
+Name: 吉林卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: 吉林卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 718ms
+Name: 吉林卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.240:8172$1920x1080, Date: None, Resolution: None, Response Time: 784ms
+Name: 广东卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.230:5140$1920x1080, Date: None, Resolution: None, Response Time: 457ms
+Name: 广东卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.230:5140$1920x1080, Date: None, Resolution: None, Response Time: 462ms
+Name: 广东卫视, URL: http://183.54.208.204:9999/rtp/239.77.0.84:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 广东卫视, URL: http://119.125.135.202:11/rtp/239.77.0.84:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 广东卫视, URL: http://116.233.220.113:1688/rtp/239.45.3.230:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 广东卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.84:5146$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 广东卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.230:5140$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 广东卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.84:5146$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 广东卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 广东卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.166:1207$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 广东卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 501ms
+Name: 广东卫视, URL: http://114.245.104.135:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 504ms
+Name: 广东卫视, URL: http://115.171.80.59:8888/rtp/225.1.8.49:8048$1920x1080, Date: None, Resolution: None, Response Time: 518ms
+Name: 广东卫视, URL: http://115.171.216.22:4000/rtp/225.1.8.49:8048$1920x1080, Date: None, Resolution: None, Response Time: 522ms
+Name: 广东卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 531ms
+Name: 广东卫视, URL: http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 738ms
+Name: 广东卫视, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.142:8048$1920x1080, Date: None, Resolution: None, Response Time: 739ms
+Name: 湖北卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 湖北卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.89:1118$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 湖北卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.95:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 湖北卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 湖北卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 495ms
+Name: 湖北卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 496ms
+Name: 湖北卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.89:1118$1920x1080, Date: None, Resolution: None, Response Time: 497ms
+Name: 湖北卫视, URL: http://123.117.37.103:4000/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: 湖北卫视, URL: http://221.219.101.215:8012/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 557ms
+Name: 湖北卫视, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.138:8044$1920x1080, Date: None, Resolution: None, Response Time: 716ms
+Name: 河北卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.44:5140$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 河北卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.148:5146$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 河北卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.44:5140$1920x1080, Date: None, Resolution: None, Response Time: 478ms
+Name: 河北卫视, URL: http://61.149.237.171:8686/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: 河北卫视, URL: http://114.246.102.14:4000/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 515ms
+Name: 河北卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 557ms
+Name: 河北卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 765ms
+Name: 河北卫视, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 775ms
+Name: 河北卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.148:8072$1920x1080, Date: None, Resolution: None, Response Time: 780ms
+Name: 山西卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 458ms
+Name: 山西卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 461ms
+Name: 山西卫视, URL: http://119.125.135.202:11/rtp/239.77.1.74:5146$720x576, Date: None, Resolution: None, Response Time: 467ms
+Name: 山西卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 469ms
+Name: 山西卫视, URL: http://119.125.135.202:11/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 471ms
+Name: 山西卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 472ms
+Name: 山西卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 474ms
+Name: 山西卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.229:5140$720x576, Date: None, Resolution: None, Response Time: 475ms
+Name: 山西卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.69:5146$720x576, Date: None, Resolution: None, Response Time: 486ms
+Name: 山西卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.42:8172$720x576, Date: None, Resolution: None, Response Time: 502ms
+Name: 重庆卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.84:5140$1920x1080, Date: None, Resolution: None, Response Time: 463ms
+Name: 重庆卫视, URL: http://183.54.208.204:9999/rtp/239.77.1.162:5146$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: 重庆卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 重庆卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.157:1308$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 重庆卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.84:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 重庆卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: 重庆卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.122:8160$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: 重庆卫视, URL: http://183.54.208.219:9999/rtp/239.77.1.162:5146$1920x1080, Date: None, Resolution: None, Response Time: 2740ms
+Name: 四川卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 447ms
+Name: 四川卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 458ms
+Name: 四川卫视, URL: http://183.54.208.204:9999/rtp/239.77.1.215:5146$1920x1080, Date: None, Resolution: None, Response Time: 461ms
+Name: 四川卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 461ms
+Name: 四川卫视, URL: http://119.125.135.202:11/rtp/239.77.0.159:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 四川卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.159:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 四川卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.83:5140$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 四川卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.151:1306$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 四川卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.151:1306$1920x1080, Date: None, Resolution: None, Response Time: 530ms
+Name: 四川卫视, URL: http://183.54.208.219:9999/rtp/239.77.1.215:5146$1920x1080, Date: None, Resolution: None, Response Time: 2712ms
+Name: 广西卫视, URL: http://58.41.30.154:8001/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 463ms
+Name: 广西卫视, URL: http://58.41.27.144:18888/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 466ms
+Name: 广西卫视, URL: http://119.125.135.202:11/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: 广西卫视, URL: http://183.54.208.204:9999/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 广西卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 广西卫视, URL: http://116.233.220.113:1688/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 广西卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 广西卫视, URL: http://218.80.110.51:4022/rtp/239.45.0.5:5140$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 广西卫视, URL: http://113.86.204.209:4022/rtp/239.77.0.139:5146$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: 陕西卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 448ms
+Name: 陕西卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 457ms
+Name: 陕西卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 460ms
+Name: 陕西卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.68:5146$720x576, Date: None, Resolution: None, Response Time: 471ms
+Name: 陕西卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.68:5146$720x576, Date: None, Resolution: None, Response Time: 475ms
+Name: 陕西卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 477ms
+Name: 陕西卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.232:5140$720x576, Date: None, Resolution: None, Response Time: 479ms
+Name: 陕西卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.41:8140$720x576, Date: None, Resolution: None, Response Time: 483ms
+Name: 陕西卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.68:5146$720x576, Date: None, Resolution: None, Response Time: 489ms
+Name: 陕西卫视, URL: http://61.149.237.171:8686/rtp/239.3.1.41:8140$720x576, Date: None, Resolution: None, Response Time: 498ms
+Name: 甘肃卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 458ms
+Name: 甘肃卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.234:5140$720x576, Date: None, Resolution: None, Response Time: 460ms
+Name: 甘肃卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.234:5140$720x576, Date: None, Resolution: None, Response Time: 462ms
+Name: 甘肃卫视, URL: http://183.54.208.204:9999/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: 甘肃卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 甘肃卫视, URL: http://119.125.135.202:11/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 甘肃卫视, URL: http://14.121.146.11:30001/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 甘肃卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.189:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 甘肃卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.234:5140$720x576, Date: None, Resolution: None, Response Time: 479ms
+Name: 甘肃卫视, URL: http://182.32.160.19:9997/rtp/239.21.2.19:5002$1920x1080, Date: None, Resolution: None, Response Time: 507ms
+Name: 宁夏卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 455ms
+Name: 宁夏卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 460ms
+Name: 宁夏卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 464ms
+Name: 宁夏卫视, URL: http://119.125.135.202:11/rtp/239.77.0.73:5146$720x576, Date: None, Resolution: None, Response Time: 467ms
+Name: 宁夏卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 473ms
+Name: 宁夏卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.73:5146$720x576, Date: None, Resolution: None, Response Time: 474ms
+Name: 宁夏卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.213:5140$720x576, Date: None, Resolution: None, Response Time: 479ms
+Name: 宁夏卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.46:8124$720x576, Date: None, Resolution: None, Response Time: 482ms
+Name: 宁夏卫视, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.46:8124$720x576, Date: None, Resolution: None, Response Time: 488ms
+Name: 宁夏卫视, URL: http://123.113.237.79:8888/rtp/239.3.1.46:8124$720x576, Date: None, Resolution: None, Response Time: 501ms
+Name: 青海卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 450ms
+Name: 青海卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 461ms
+Name: 青海卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 463ms
+Name: 青海卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.71:5146$720x576, Date: None, Resolution: None, Response Time: 464ms
+Name: 青海卫视, URL: http://113.101.245.175:9988/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 青海卫视, URL: http://113.68.179.40:4022/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 青海卫视, URL: http://119.125.135.202:11/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 青海卫视, URL: http://113.110.231.208:4022/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 青海卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.230:5140$720x576, Date: None, Resolution: None, Response Time: 476ms
+Name: 青海卫视, URL: http://113.86.204.209:4022/rtp/239.253.43.125:5146$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: 海南卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 458ms
+Name: 海南卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 460ms
+Name: 海南卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 465ms
+Name: 海南卫视, URL: http://119.125.135.202:11/rtp/239.253.43.35:5146$1920x1080, Date: None, Resolution: None, Response Time: 467ms
+Name: 海南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.195:1310$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 海南卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 海南卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.81:5140$1920x1080, Date: None, Resolution: None, Response Time: 480ms
+Name: 海南卫视, URL: http://114.253.73.128:8686/rtp/239.3.1.45:8304$720x576, Date: None, Resolution: None, Response Time: 483ms
+Name: 海南卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.195:1310$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 海南卫视, URL: http://ik6.iptv8.net:8888/rtp/225.1.4.195:1310$1920x1080, Date: None, Resolution: None, Response Time: 619ms
+Name: 新疆卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 446ms
+Name: 新疆卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 461ms
+Name: 新疆卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 463ms
+Name: 新疆卫视, URL: http://113.101.245.175:9988/rtp/239.77.1.53:5146$720x576, Date: None, Resolution: None, Response Time: 464ms
+Name: 新疆卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.75:5146$720x576, Date: None, Resolution: None, Response Time: 470ms
+Name: 新疆卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.75:5146$720x576, Date: None, Resolution: None, Response Time: 474ms
+Name: 新疆卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.75:5146$720x576, Date: None, Resolution: None, Response Time: 475ms
+Name: 新疆卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 476ms
+Name: 新疆卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.116:5140$720x576, Date: None, Resolution: None, Response Time: 479ms
+Name: 新疆卫视, URL: http://113.110.231.208:4022/rtp/239.77.1.53:5146$720x576, Date: None, Resolution: None, Response Time: 489ms
+Name: 西藏卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 457ms
+Name: 西藏卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 460ms
+Name: 西藏卫视, URL: http://113.101.245.175:9988/rtp/239.77.1.49:5146$720x576, Date: None, Resolution: None, Response Time: 463ms
+Name: 西藏卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 465ms
+Name: 西藏卫视, URL: http://119.125.135.202:11/rtp/239.77.0.74:5146$720x576, Date: None, Resolution: None, Response Time: 472ms
+Name: 西藏卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.231:5140$720x576, Date: None, Resolution: None, Response Time: 473ms
+Name: 西藏卫视, URL: http://113.68.179.40:4022/rtp/239.77.0.74:5146$720x576, Date: None, Resolution: None, Response Time: 473ms
+Name: 西藏卫视, URL: http://113.110.231.208:4022/rtp/239.77.1.49:5146$720x576, Date: None, Resolution: None, Response Time: 477ms
+Name: 西藏卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.74:5146$720x576, Date: None, Resolution: None, Response Time: 479ms
+Name: 西藏卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.74:5146$720x576, Date: None, Resolution: None, Response Time: 488ms
+Name: 内蒙古卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 447ms
+Name: 内蒙古卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 460ms
+Name: 内蒙古卫视, URL: http://113.101.245.175:9988/rtp/239.77.1.55:5146$720x576, Date: None, Resolution: None, Response Time: 464ms
+Name: 内蒙古卫视, URL: http://119.125.135.202:11/rtp/239.77.0.70:5146$720x576, Date: None, Resolution: None, Response Time: 466ms
+Name: 内蒙古卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.70:5146$720x576, Date: None, Resolution: None, Response Time: 471ms
+Name: 内蒙古卫视, URL: http://183.54.208.219:9999/rtp/239.77.0.70:5146$720x576, Date: None, Resolution: None, Response Time: 472ms
+Name: 内蒙古卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.70:5146$720x576, Date: None, Resolution: None, Response Time: 473ms
+Name: 内蒙古卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 475ms
+Name: 内蒙古卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 476ms
+Name: 内蒙古卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.238:5140$720x576, Date: None, Resolution: None, Response Time: 478ms
+Name: 云南卫视, URL: http://180.171.56.119:10000/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 458ms
+Name: 云南卫视, URL: http://218.80.110.51:4022/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 460ms
+Name: 云南卫视, URL: http://58.41.27.144:18888/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 461ms
+Name: 云南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.152:1307$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 云南卫视, URL: http://119.125.135.202:11/rtp/239.253.43.100:5146$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 云南卫视, URL: http://116.233.220.113:1688/rtp/239.45.0.4:5140$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 云南卫视, URL: http://113.68.179.40:4022/rtp/239.253.43.100:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 云南卫视, URL: http://119.125.135.202:11/rtp/239.253.43.37:5146$1920x1080, Date: None, Resolution: None, Response Time: 485ms
+Name: 云南卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.152:1307$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: 云南卫视, URL: http://113.110.231.208:4022/rtp/239.253.43.37:5146$1920x1080, Date: None, Resolution: None, Response Time: 490ms
+Name: 东南卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.146:5146$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 东南卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: 东南卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.228:1274$1920x1080, Date: None, Resolution: None, Response Time: 492ms
+Name: 东南卫视, URL: http://124.65.0.167:20000/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 503ms
+Name: 东南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.228:1274$1920x1080, Date: None, Resolution: None, Response Time: 530ms
+Name: 东南卫视, URL: http://221.219.100.60:4022/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 552ms
+Name: 东南卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 559ms
+Name: 东南卫视, URL: http://cn.zzmd.fun:8888/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 807ms
+Name: 东南卫视, URL: http://sweetown.fun:4000/rtp/239.3.1.156:8148$1920x1080, Date: None, Resolution: None, Response Time: 1042ms
+Name: 河南卫视, URL: http://58.41.30.154:8001/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 465ms
+Name: 河南卫视, URL: http://183.54.208.204:9999/rtp/239.77.1.229:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 河南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 470ms
+Name: 河南卫视, URL: http://113.101.245.175:9988/rtp/239.77.0.17:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 河南卫视, URL: http://116.233.220.113:1688/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 河南卫视, URL: http://182.115.230.52:4022/rtp/225.1.4.98:1127$1920x1080, Date: None, Resolution: None, Response Time: 478ms
+Name: 河南卫视, URL: http://58.41.27.144:18888/rtp/239.45.0.3:5140$1920x1080, Date: None, Resolution: None, Response Time: 479ms
+Name: 河南卫视, URL: http://123.13.247.38:4000/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 489ms
+Name: 河南卫视, URL: http://113.110.231.208:4022/rtp/239.77.0.17:5146$1920x1080, Date: None, Resolution: None, Response Time: 491ms
+Name: 河南卫视, URL: http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300$3840x2160, Date: None, Resolution: None, Response Time: 620ms
+Name: 三沙卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 447ms
+Name: 三沙卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 456ms
+Name: 三沙卫视, URL: http://58.41.27.144:18888/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 461ms
+Name: 三沙卫视, URL: http://113.101.245.175:9988/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 465ms
+Name: 三沙卫视, URL: http://119.125.135.202:11/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 三沙卫视, URL: http://113.68.179.40:4022/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 三沙卫视, URL: http://113.110.231.208:4022/rtp/239.253.43.113:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 三沙卫视, URL: http://218.80.110.51:4022/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 474ms
+Name: 三沙卫视, URL: http://58.41.30.154:8001/rtp/239.45.1.82:5140$720x576, Date: None, Resolution: None, Response Time: 477ms
+Name: 三沙卫视, URL: http://113.110.231.208:4022/rtp/239.77.1.117:5146$720x576, Date: None, Resolution: None, Response Time: 486ms
+Name: 兵团卫视, URL: http://116.233.220.113:1688/rtp/239.45.1.117:5140$720x576, Date: None, Resolution: None, Response Time: 448ms
+Name: 兵团卫视, URL: http://180.171.56.119:10000/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 459ms
+Name: 兵团卫视, URL: http://180.171.56.119:10000/rtp/239.45.1.117:5140$720x576, Date: None, Resolution: None, Response Time: 460ms
+Name: 兵团卫视, URL: http://58.41.30.154:8001/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 465ms
+Name: 兵团卫视, URL: http://113.101.245.175:9988/rtp/239.77.1.80:5146$720x576, Date: None, Resolution: None, Response Time: 469ms
+Name: 兵团卫视, URL: http://119.125.135.202:11/rtp/239.77.0.77:5146$720x576, Date: None, Resolution: None, Response Time: 470ms
+Name: 兵团卫视, URL: http://116.233.220.113:1688/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 兵团卫视, URL: http://218.80.110.51:4022/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 477ms
+Name: 兵团卫视, URL: http://58.41.27.144:18888/rtp/239.45.3.143:5140$1920x1080, Date: None, Resolution: None, Response Time: 478ms
+Name: 黑龙江卫视, URL: http://114.254.88.184:2222/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: 黑龙江卫视, URL: http://222.129.32.10:8888/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 483ms
+Name: 黑龙江卫视, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 黑龙江卫视, URL: http://115.171.80.59:8888/rtp/225.1.8.42:8016$1920x1080, Date: None, Resolution: None, Response Time: 517ms
+Name: 黑龙江卫视, URL: http://114.254.89.75:2222/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 527ms
+Name: 黑龙江卫视, URL: http://114.249.22.163:9000/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 556ms
+Name: 黑龙江卫视, URL: http://drive.mxmy.net:8888/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 568ms
+Name: 黑龙江卫视, URL: http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 737ms
+Name: 黑龙江卫视, URL: http://qnap.yjnhome.com:4000/rtp/239.3.1.133:8016$1920x1080, Date: None, Resolution: None, Response Time: 888ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 449ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 456ms
+Name: 广东体育, URL: http://113.101.245.175:9988/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 464ms
+Name: 广东体育, URL: http://119.125.135.202:11/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 467ms
+Name: 广东体育, URL: http://113.101.245.175:9988/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: 广东体育, URL: http://113.68.179.40:4022/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: 广东体育, URL: http://119.125.135.202:11/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 471ms
+Name: 广东体育, URL: http://113.110.231.208:4022/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 广东体育, URL: http://113.68.179.40:4022/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 广东体育, URL: http://113.86.204.209:4022/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: 广东体育, URL: http://113.110.231.208:4022/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 486ms
+Name: 广东体育, URL: http://113.110.231.208:4022/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 491ms
+Name: CCTV 5体育, URL: http://180.171.56.119:10000/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 456ms
+Name: CCTV 5体育, URL: http://58.41.30.154:8001/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 463ms
+Name: CCTV 5体育, URL: http://183.54.208.204:9999/rtp/239.77.0.170:5146$1920x1080, Date: None, Resolution: None, Response Time: 469ms
+Name: CCTV 5体育, URL: http://116.233.220.113:1688/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV 5体育, URL: http://218.80.110.51:4022/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 477ms
+Name: CCTV 5体育, URL: http://58.41.27.144:18888/rtp/239.45.1.69:5140$1920x1080, Date: None, Resolution: None, Response Time: 479ms
+Name: CCTV 5体育, URL: http://61.149.237.171:8686/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 498ms
+Name: CCTV 5体育, URL: http://123.117.37.103:4000/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 554ms
+Name: CCTV 5体育, URL: http://221.219.101.215:8012/rtp/239.3.1.173:8001$1920x1080, Date: None, Resolution: None, Response Time: 555ms
+Name: CCTV 5体育, URL: http://183.54.208.219:9999/rtp/239.77.0.170:5146$1920x1080, Date: None, Resolution: None, Response Time: 2750ms
+Name: CCTV 5+体育赛事, URL: http://114.254.88.184:2222/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 468ms
+Name: CCTV 5+体育赛事, URL: http://182.115.230.52:4022/rtp/225.1.4.75:1104$1920x1080, Date: None, Resolution: None, Response Time: 470ms
+Name: CCTV 5+体育赛事, URL: http://119.125.135.202:11/rtp/239.77.0.87:5146$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: CCTV 5+体育赛事, URL: http://113.68.179.40:4022/rtp/239.77.0.87:5146$1920x1080, Date: None, Resolution: None, Response Time: 473ms
+Name: CCTV 5+体育赛事, URL: http://114.253.73.128:8686/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: CCTV 5+体育赛事, URL: http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: CCTV 5+体育赛事, URL: http://123.13.247.38:4000/rtp/225.1.4.75:1104$1920x1080, Date: None, Resolution: None, Response Time: 489ms
+Name: CCTV 5+体育赛事, URL: http://123.113.237.79:8888/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 502ms
+Name: CCTV 5+体育赛事, URL: http://61.149.237.171:8686/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 512ms
+Name: CCTV 5+体育赛事, URL: http://114.254.89.75:2222/rtp/239.3.1.130:8004$1920x1080, Date: None, Resolution: None, Response Time: 527ms
+Name: 五星体育, URL: http://58.41.132.112:8686/rtp/239.45.3.210:5140, Date: None, Resolution: None, Response Time: 451ms
+Name: 五星体育, URL: http://180.171.56.119:10000/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 457ms
+Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 461ms
+Name: 五星体育, URL: http://58.41.30.154:8001/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 463ms
+Name: 五星体育, URL: http://116.233.220.113:1688/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 472ms
+Name: 五星体育, URL: http://218.80.110.51:4022/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 474ms
+Name: 五星体育, URL: http://58.41.30.154:8001/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 476ms
+Name: 五星体育, URL: http://116.226.36.186:8088/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 477ms
+Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 1499ms
+Name: 快乐垂钓, URL: http://1.203.184.153:4000/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 509ms
+Name: 快乐垂钓, URL: http://1.203.77.170:7788/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 511ms
+Name: 快乐垂钓, URL: http://115.171.80.59:8888/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 518ms
+Name: 快乐垂钓, URL: http://115.171.216.54:4000/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 521ms
+Name: 快乐垂钓, URL: http://115.171.216.22:4000/rtp/225.1.8.71:8002$1920x1080, Date: None, Resolution: None, Response Time: 527ms
+Name: 茶, URL: http://1.203.184.153:4000/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 506ms
+Name: 茶, URL: http://1.203.77.170:7788/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 513ms
+Name: 茶, URL: http://115.171.216.22:4000/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 519ms
+Name: 茶, URL: http://115.171.80.59:8888/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 522ms
+Name: 茶, URL: http://115.171.216.54:4000/rtp/225.1.8.72:8002$1920x1080, Date: None, Resolution: None, Response Time: 525ms
 Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 503ms
+Name: 凤凰中文, URL: http://125.71.58.184:4022/udp/239.93.1.9:2192, Date: None, Resolution: None, Response Time: 510ms
 Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 510ms
-Name: 凤凰中文, URL: http://125.71.58.184:4022/udp/239.93.1.9:2192, Date: None, Resolution: None, Response Time: 565ms
-Name: 凤凰中文, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8, Date: None, Resolution: None, Response Time: 694ms
-Name: 凤凰资讯, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8, Date: None, Resolution: None, Response Time: 431ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 488ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv, Date: None, Resolution: None, Response Time: 492ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 507ms
-Name: 凤凰资讯, URL: http://125.71.58.184:4022/udp/239.93.1.4:2191, Date: None, Resolution: None, Response Time: 538ms
-Name: 凤凰香港, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8, Date: None, Resolution: None, Response Time: 430ms
-Name: 凤凰香港, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8, Date: None, Resolution: None, Response Time: 464ms
-Name: TVBS新闻, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv072, Date: None, Resolution: None, Response Time: 2053ms
-Name: TVBS欢乐, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv068, Date: None, Resolution: None, Response Time: 696ms
-Name: 中视, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv040, Date: None, Resolution: None, Response Time: 880ms
-Name: 台视新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv051, Date: None, Resolution: None, Response Time: 1541ms
-Name: 中视新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv074, Date: None, Resolution: None, Response Time: 1246ms
-Name: 中天新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv009, Date: None, Resolution: None, Response Time: 927ms
-Name: 民视新闻台, URL: http://myzy.eu.org/proxy.php?id=litv-ftv13, Date: None, Resolution: None, Response Time: 823ms
-Name: 华视新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv052, Date: None, Resolution: None, Response Time: 1003ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv, Date: None, Resolution: None, Response Time: 549ms
+Name: 凤凰中文, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8, Date: None, Resolution: None, Response Time: 551ms
+Name: 凤凰资讯, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8, Date: None, Resolution: None, Response Time: 496ms
+Name: 凤凰资讯, URL: http://125.71.58.184:4022/udp/239.93.1.4:2191, Date: None, Resolution: None, Response Time: 516ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv, Date: None, Resolution: None, Response Time: 520ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 563ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 568ms
+Name: 凤凰香港, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8, Date: None, Resolution: None, Response Time: 517ms
+Name: 凤凰香港, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8, Date: None, Resolution: None, Response Time: 558ms
+Name: TVBS新闻, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv072, Date: None, Resolution: None, Response Time: 2582ms
+Name: TVBS欢乐, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv068, Date: None, Resolution: None, Response Time: 676ms
+Name: 中视, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv040, Date: None, Resolution: None, Response Time: 1432ms
+Name: 台视新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv051, Date: None, Resolution: None, Response Time: 1091ms
+Name: 中视新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv074, Date: None, Resolution: None, Response Time: 1053ms
+Name: 中天新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv009, Date: None, Resolution: None, Response Time: 1569ms
+Name: 民视新闻台, URL: http://myzy.eu.org/proxy.php?id=litv-ftv13, Date: None, Resolution: None, Response Time: 880ms
+Name: 华视新闻台, URL: http://myzy.eu.org/proxy.php?id=4gtv-4gtv052, Date: None, Resolution: None, Response Time: 648ms
