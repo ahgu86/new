@@ -1,241 +1,290 @@
-Name: 安徽卫视, URL:  http://171.108.239.98:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 518ms
-Name: 安徽卫视, URL:  http://171.108.239.80:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 524ms
-Name: 安徽卫视, URL:  http://171.108.239.79:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 556ms
-Name: 安徽卫视, URL:  http://59.48.75.130:3052/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1176ms
-Name: 安徽卫视, URL:  http://nnth.7766.org:85//tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1356ms
-Name: CCTV1, URL:  http://171.108.239.98:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 527ms
-Name: CCTV1, URL:  http://59.48.75.130:3052/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
-Name: CCTV1, URL:  http://171.108.239.79:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 541ms
-Name: CCTV1, URL:  http://nnth.7766.org:85//tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1369ms
-Name: CCTV2, URL:  http://171.108.239.98:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
-Name: CCTV2, URL:  http://171.108.239.80:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
-Name: CCTV2, URL:  http://171.108.239.79:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 552ms
-Name: CCTV2, URL:  http://59.48.75.130:3052/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 679ms
-Name: CCTV2, URL:  http://nnth.7766.org:85//tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1379ms
-Name: CCTV3, URL:  http://171.108.239.98:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: CCTV3, URL:  http://171.108.239.80:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
-Name: CCTV3, URL:  http://59.48.75.130:3052/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
-Name: CCTV3, URL:  http://171.108.239.79:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
-Name: CCTV4, URL:  http://171.108.239.80:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
-Name: CCTV4, URL:  http://171.108.239.98:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 536ms
-Name: CCTV4, URL:  http://171.108.239.79:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 547ms
-Name: CCTV4, URL:  http://59.48.75.130:3052/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 554ms
-Name: CCTV4, URL:  http://nnth.7766.org:85//tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1526ms
-Name: CCTV5, URL:  http://171.108.239.80:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
-Name: CCTV5, URL:  http://171.108.239.98:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 569ms
-Name: CCTV5, URL:  http://59.48.75.130:3052/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 807ms
-Name: CCTV5, URL:  http://171.108.239.79:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 2122ms
-Name: CCTV5+, URL:  http://171.108.239.80:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: CCTV5+, URL:  http://171.108.239.79:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
-Name: CCTV6, URL:  http://171.108.239.98:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 514ms
-Name: CCTV6, URL:  http://171.108.239.80:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 516ms
-Name: CCTV6, URL:  http://59.48.75.130:3052/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
-Name: CCTV6, URL:  http://171.108.239.79:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
-Name: CCTV7, URL:  http://171.108.239.98:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV7, URL:  http://171.108.239.80:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
-Name: CCTV7, URL:  http://59.48.75.130:3052/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 565ms
-Name: CCTV7, URL:  http://nnth.7766.org:85//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1410ms
-Name: CCTV8, URL:  http://171.108.239.80:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 516ms
-Name: CCTV8, URL:  http://171.108.239.98:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 4940ms
-Name: CCTV9, URL:  http://171.108.239.80:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 530ms
-Name: CCTV9, URL:  http://171.108.239.79:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 561ms
-Name: CCTV9, URL:  http://59.48.75.130:3052/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 874ms
-Name: CCTV9, URL:  http://nnth.7766.org:85//tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1406ms
-Name: CCTV10, URL:  http://171.108.239.80:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: CCTV10, URL:  http://171.108.239.98:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
-Name: CCTV10, URL:  http://nnth.7766.org:85//tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1336ms
-Name: CCTV11, URL:  http://171.108.239.98:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
-Name: CCTV11, URL:  http://171.108.239.79:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 530ms
-Name: CCTV11, URL:  http://171.108.239.80:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 532ms
-Name: CCTV11, URL:  http://59.48.75.130:3052/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1319ms
-Name: CCTV11, URL:  http://nnth.7766.org:85//tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1575ms
-Name: CCTV12, URL:  http://171.108.239.98:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
-Name: CCTV12, URL:  http://171.108.239.80:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 514ms
-Name: CCTV12, URL:  http://59.48.75.130:3052/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 548ms
-Name: CCTV12, URL:  http://171.108.239.79:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 562ms
-Name: CCTV12, URL:  http://nnth.7766.org:85//tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1362ms
-Name: CCTV13, URL:  http://171.108.239.98:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
-Name: CCTV13, URL:  http://171.108.239.79:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 531ms
-Name: CCTV13, URL:  http://171.108.239.80:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 543ms
-Name: CCTV13, URL:  http://59.48.75.130:3052/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 907ms
-Name: CCTV13, URL:  http://nnth.7766.org:85//tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1423ms
-Name: CCTV14, URL:  http://171.108.239.80:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
-Name: CCTV14, URL:  http://171.108.239.79:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 545ms
-Name: CCTV14, URL:  http://59.48.75.130:3052/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 550ms
-Name: CCTV14, URL:  http://nnth.7766.org:85//tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1415ms
-Name: CCTV15, URL:  http://171.108.239.98:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
-Name: CCTV15, URL:  http://171.108.239.80:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 527ms
-Name: CCTV15, URL:  http://171.108.239.79:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 536ms
-Name: CCTV15, URL:  http://nnth.7766.org:85//tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 544ms
-Name: CCTV15, URL:  http://59.48.75.130:3052/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1028ms
-Name: CCTV17, URL:  http://171.108.239.80:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: CCTV17, URL:  http://171.108.239.79:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
-Name: 安徽卫视, URL:  http://171.108.239.98:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 512ms
-Name: 安徽卫视, URL:  http://171.108.239.80:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 528ms
-Name: 安徽卫视, URL:  http://171.108.239.79:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 544ms
-Name: 安徽卫视, URL:  http://59.48.75.130:3052/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1082ms
-Name: 安徽卫视, URL:  http://nnth.7766.org:85//tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1414ms
-Name: 湖南卫视, URL:  http://171.108.239.98:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
-Name: 湖南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
-Name: 湖南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 561ms
-Name: 湖南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1066ms
-Name: 湖南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1441ms
-Name: 东方卫视, URL:  http://59.48.75.130:3052/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
-Name: 东方卫视, URL:  http://171.108.239.98:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: 东方卫视, URL:  http://171.108.239.80:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
-Name: 东方卫视, URL:  http://171.108.239.79:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 535ms
-Name: 东方卫视, URL:  http://nnth.7766.org:85//tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1318ms
-Name: 北京卫视, URL:  http://nnth.7766.org:85//tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 759ms
-Name: 北京卫视, URL:  http://59.48.75.130:3052/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1012ms
-Name: 北京卫视, URL:  http://171.108.239.80:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3553ms
-Name: 北京卫视, URL:  http://171.108.239.79:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3579ms
-Name: 浙江卫视, URL:  http://59.48.75.130:3052/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 958ms
-Name: 浙江卫视, URL:  http://nnth.7766.org:85//tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1325ms
-Name: 江苏卫视, URL:  http://59.48.75.130:3052/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 552ms
-Name: 江苏卫视, URL:  http://nnth.7766.org:85//tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1282ms
-Name: 天津卫视, URL:  http://171.108.239.98:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
-Name: 天津卫视, URL:  http://171.108.239.80:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 538ms
-Name: 天津卫视, URL:  http://171.108.239.79:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
-Name: 天津卫视, URL:  http://59.48.75.130:3052/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 972ms
-Name: 天津卫视, URL:  http://nnth.7766.org:85//tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1226ms
-Name: 山东卫视, URL:  http://171.108.239.98:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 513ms
-Name: 山东卫视, URL:  http://nnth.7766.org:85//tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 534ms
-Name: 山东卫视, URL:  http://171.108.239.79:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 557ms
-Name: 山东卫视, URL:  http://171.108.239.80:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 607ms
-Name: 山东卫视, URL:  http://59.48.75.130:3052/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 971ms
-Name: 辽宁卫视, URL:  http://171.108.239.80:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 525ms
-Name: 辽宁卫视, URL:  http://nnth.7766.org:85//tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 529ms
-Name: 辽宁卫视, URL:  http://171.108.239.79:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 538ms
-Name: 辽宁卫视, URL:  http://171.108.239.98:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1218ms
-Name: 辽宁卫视, URL:  http://59.48.75.130:3052/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1236ms
-Name: 深圳卫视, URL:  http://59.48.75.130:3052/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 892ms
-Name: 深圳卫视, URL:  http://nnth.7766.org:85//tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1267ms
-Name: 江西卫视, URL:  http://171.108.239.98:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 502ms
-Name: 江西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 522ms
-Name: 江西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 526ms
-Name: 江西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 558ms
-Name: 江西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 769ms
-Name: 贵州卫视, URL:  http://171.108.239.98:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 505ms
-Name: 贵州卫视, URL:  http://171.108.239.79:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 518ms
-Name: 贵州卫视, URL:  http://171.108.239.80:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 540ms
-Name: 贵州卫视, URL:  http://nnth.7766.org:85//tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 767ms
-Name: 贵州卫视, URL:  http://59.48.75.130:3052/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1639ms
-Name: 吉林卫视, URL:  http://171.108.239.98:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 501ms
-Name: 吉林卫视, URL:  http://171.108.239.79:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 542ms
-Name: 吉林卫视, URL:  http://59.48.75.130:3052/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1201ms
-Name: 吉林卫视, URL:  http://nnth.7766.org:85//tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1295ms
-Name: 广东卫视, URL:  http://171.108.239.98:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: 广东卫视, URL:  http://171.108.239.79:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 536ms
-Name: 广东卫视, URL:  http://171.108.239.80:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 551ms
-Name: 广东卫视, URL:  http://59.48.75.130:3052/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1052ms
-Name: 广东卫视, URL:  http://nnth.7766.org:85//tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1282ms
-Name: 湖北卫视, URL:  http://171.108.239.80:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 安徽卫视, URL:  http://171.108.239.80:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: 安徽卫视, URL:  http://171.108.239.98:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 529ms
+Name: 安徽卫视, URL:  http://220.164.192.48:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 529ms
+Name: 安徽卫视, URL:  http://171.108.239.79:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 535ms
+Name: 安徽卫视, URL:  http://59.48.75.130:3052/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1174ms
+Name: 安徽卫视, URL:  http://nnth.7766.org:85//tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1402ms
+Name: CCTV1, URL:  http://171.108.239.98:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
+Name: CCTV1, URL:  http://220.164.192.48:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 530ms
+Name: CCTV1, URL:  http://171.108.239.79:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 537ms
+Name: CCTV1, URL:  http://59.48.75.130:3052/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 557ms
+Name: CCTV1, URL:  http://nnth.7766.org:85//tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 932ms
+Name: CCTV2, URL:  http://171.108.239.80:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV2, URL:  http://171.108.239.79:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV2, URL:  http://59.48.75.130:3052/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
+Name: CCTV2, URL:  http://220.164.192.48:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 542ms
+Name: CCTV2, URL:  http://171.108.239.98:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: CCTV2, URL:  http://nnth.7766.org:85//tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1426ms
+Name: CCTV3, URL:  http://171.108.239.79:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV3, URL:  http://171.108.239.80:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV3, URL:  http://171.108.239.98:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
+Name: CCTV3, URL:  http://220.164.192.48:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: CCTV3, URL:  http://59.48.75.130:3052/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 559ms
+Name: CCTV4, URL:  http://171.108.239.80:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: CCTV4, URL:  http://nnth.7766.org:85//tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: CCTV4, URL:  http://171.108.239.79:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: CCTV4, URL:  http://171.108.239.98:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: CCTV4, URL:  http://59.48.75.130:3052/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 524ms
+Name: CCTV4, URL:  http://220.164.192.48:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 543ms
+Name: CCTV5, URL:  http://171.108.239.79:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 513ms
+Name: CCTV5, URL:  http://171.108.239.80:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV5, URL:  http://171.108.239.98:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 530ms
+Name: CCTV5, URL:  http://220.164.192.48:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 530ms
+Name: CCTV5, URL:  http://59.48.75.130:3052/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 559ms
+Name: CCTV5+, URL:  http://171.108.239.80:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 513ms
+Name: CCTV5+, URL:  http://171.108.239.79:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: CCTV6, URL:  http://171.108.239.80:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV6, URL:  http://220.164.192.48:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: CCTV6, URL:  http://171.108.239.98:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 537ms
+Name: CCTV6, URL:  http://59.48.75.130:3052/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
+Name: CCTV6, URL:  http://171.108.239.79:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 582ms
+Name: CCTV7, URL:  http://171.108.239.80:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV7, URL:  http://59.48.75.130:3052/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 529ms
+Name: CCTV7, URL:  http://220.164.192.48:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: CCTV7, URL:  http://nnth.7766.org:85//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1377ms
+Name: CCTV7, URL:  http://171.108.239.98:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3546ms
+Name: CCTV8, URL:  http://171.108.239.80:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: CCTV8, URL:  http://220.164.192.48:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: CCTV9, URL:  http://171.108.239.80:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: CCTV9, URL:  http://171.108.239.79:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: CCTV9, URL:  http://220.164.192.48:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 546ms
+Name: CCTV9, URL:  http://59.48.75.130:3052/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 558ms
+Name: CCTV9, URL:  http://nnth.7766.org:85//tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 877ms
+Name: CCTV10, URL:  http://171.108.239.98:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 514ms
+Name: CCTV10, URL:  http://171.108.239.80:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 516ms
+Name: CCTV10, URL:  http://220.164.192.48:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: CCTV10, URL:  http://nnth.7766.org:85//tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 821ms
+Name: CCTV11, URL:  http://nnth.7766.org:85//tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: CCTV11, URL:  http://171.108.239.80:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV11, URL:  http://171.108.239.98:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: CCTV11, URL:  http://220.164.192.48:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 544ms
+Name: CCTV11, URL:  http://171.108.239.79:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 665ms
+Name: CCTV11, URL:  http://59.48.75.130:3052/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 989ms
+Name: CCTV12, URL:  http://171.108.239.80:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV12, URL:  http://59.48.75.130:3052/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
+Name: CCTV12, URL:  http://171.108.239.98:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: CCTV12, URL:  http://220.164.192.48:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 730ms
+Name: CCTV12, URL:  http://nnth.7766.org:85//tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 931ms
+Name: CCTV12, URL:  http://171.108.239.79:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1537ms
+Name: CCTV13, URL:  http://nnth.7766.org:85//tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: CCTV13, URL:  http://171.108.239.80:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV13, URL:  http://171.108.239.98:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: CCTV13, URL:  http://220.164.192.48:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 544ms
+Name: CCTV13, URL:  http://59.48.75.130:3052/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
+Name: CCTV13, URL:  http://171.108.239.79:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1568ms
+Name: CCTV14, URL:  http://nnth.7766.org:85//tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: CCTV14, URL:  http://59.48.75.130:3052/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: CCTV14, URL:  http://220.164.192.48:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 870ms
+Name: CCTV14, URL:  http://171.108.239.79:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3553ms
+Name: CCTV14, URL:  http://171.108.239.80:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3561ms
+Name: CCTV15, URL:  http://nnth.7766.org:85//tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: CCTV15, URL:  http://171.108.239.80:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: CCTV15, URL:  http://171.108.239.98:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: CCTV15, URL:  http://220.164.192.48:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: CCTV15, URL:  http://171.108.239.79:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 607ms
+Name: CCTV15, URL:  http://59.48.75.130:3052/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 636ms
+Name: CCTV16, URL:  http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: CCTV17, URL:  http://171.108.239.80:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: CCTV17, URL:  http://220.164.192.48:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: CCTV17, URL:  http://171.108.239.79:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1651ms
+Name: 安徽卫视, URL:  http://171.108.239.80:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: 安徽卫视, URL:  http://171.108.239.79:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 527ms
+Name: 安徽卫视, URL:  http://220.164.192.48:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 532ms
+Name: 安徽卫视, URL:  http://nnth.7766.org:85//tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 919ms
+Name: 安徽卫视, URL:  http://59.48.75.130:3052/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 931ms
+Name: 安徽卫视, URL:  http://171.108.239.98:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1538ms
+Name: 湖南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: 湖南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 湖南卫视, URL:  http://171.108.239.98:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: 湖南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 532ms
+Name: 湖南卫视, URL:  http://220.164.192.48:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 547ms
+Name: 湖南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1370ms
+Name: 东方卫视, URL:  http://171.108.239.98:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: 东方卫视, URL:  http://171.108.239.79:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: 东方卫视, URL:  http://59.48.75.130:3052/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 558ms
+Name: 东方卫视, URL:  http://nnth.7766.org:85//tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 935ms
+Name: 东方卫视, URL:  http://220.164.192.48:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 951ms
+Name: 东方卫视, URL:  http://171.108.239.80:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3307ms
+Name: 北京卫视, URL:  http://171.108.239.80:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: 北京卫视, URL:  http://59.48.75.130:3052/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 北京卫视, URL:  http://220.164.192.48:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 547ms
+Name: 北京卫视, URL:  http://171.108.239.79:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 563ms
+Name: 北京卫视, URL:  http://nnth.7766.org:85//tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1432ms
+Name: 浙江卫视, URL:  http://220.164.192.48:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 535ms
+Name: 浙江卫视, URL:  http://59.48.75.130:3052/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 572ms
+Name: 浙江卫视, URL:  http://nnth.7766.org:85//tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1482ms
+Name: 江苏卫视, URL:  http://nnth.7766.org:85//tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: 江苏卫视, URL:  http://59.48.75.130:3052/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 江苏卫视, URL:  http://220.164.192.48:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 845ms
+Name: 天津卫视, URL:  http://171.108.239.79:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: 天津卫视, URL:  http://220.164.192.48:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 530ms
+Name: 天津卫视, URL:  http://59.48.75.130:3052/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 557ms
+Name: 天津卫视, URL:  http://171.108.239.98:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 582ms
+Name: 天津卫视, URL:  http://nnth.7766.org:85//tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 759ms
+Name: 天津卫视, URL:  http://171.108.239.80:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1089ms
+Name: 山东卫视, URL:  http://171.108.239.79:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 山东卫视, URL:  http://171.108.239.98:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 516ms
+Name: 山东卫视, URL:  http://171.108.239.80:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 山东卫视, URL:  http://59.48.75.130:3052/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 山东卫视, URL:  http://220.164.192.48:50085/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 550ms
+Name: 山东卫视, URL:  http://nnth.7766.org:85//tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1168ms
+Name: 辽宁卫视, URL:  http://171.108.239.80:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: 辽宁卫视, URL:  http://171.108.239.98:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 辽宁卫视, URL:  http://59.48.75.130:3052/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 558ms
+Name: 辽宁卫视, URL:  http://171.108.239.79:8181/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 564ms
+Name: 辽宁卫视, URL:  http://nnth.7766.org:85//tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 753ms
+Name: 深圳卫视, URL:  http://nnth.7766.org:85//tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
+Name: 深圳卫视, URL:  http://59.48.75.130:3052/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 深圳卫视, URL:  http://220.164.192.48:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 534ms
+Name: 江西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 江西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 561ms
+Name: 江西卫视, URL:  http://171.108.239.98:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 568ms
+Name: 江西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 636ms
+Name: 江西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 876ms
+Name: 贵州卫视, URL:  http://171.108.239.79:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: 贵州卫视, URL:  http://171.108.239.80:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 贵州卫视, URL:  http://59.48.75.130:3052/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 贵州卫视, URL:  http://220.164.192.48:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 537ms
+Name: 贵州卫视, URL:  http://nnth.7766.org:85//tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 867ms
+Name: 贵州卫视, URL:  http://171.108.239.98:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1516ms
+Name: 吉林卫视, URL:  http://171.108.239.80:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: 吉林卫视, URL:  http://171.108.239.98:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: 吉林卫视, URL:  http://220.164.192.48:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 549ms
+Name: 吉林卫视, URL:  http://59.48.75.130:3052/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 570ms
+Name: 吉林卫视, URL:  http://171.108.239.79:8181/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 734ms
+Name: 吉林卫视, URL:  http://nnth.7766.org:85//tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1186ms
+Name: 广东卫视, URL:  http://59.48.75.130:3052/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 527ms
+Name: 广东卫视, URL:  http://171.108.239.98:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
+Name: 广东卫视, URL:  http://220.164.192.48:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: 广东卫视, URL:  http://171.108.239.79:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 564ms
+Name: 广东卫视, URL:  http://nnth.7766.org:85//tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 754ms
+Name: 广东卫视, URL:  http://171.108.239.80:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1529ms
+Name: 湖北卫视, URL:  http://171.108.239.80:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: 湖北卫视, URL:  http://nnth.7766.org:85//tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 513ms
 Name: 湖北卫视, URL:  http://171.108.239.98:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: 湖北卫视, URL:  http://nnth.7766.org:85//tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 534ms
-Name: 湖北卫视, URL:  http://171.108.239.79:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 546ms
-Name: 湖北卫视, URL:  http://59.48.75.130:3052/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1084ms
-Name: 河北卫视, URL:  http://171.108.239.98:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 505ms
-Name: 河北卫视, URL:  http://171.108.239.79:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 529ms
-Name: 河北卫视, URL:  http://nnth.7766.org:85//tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 532ms
-Name: 河北卫视, URL:  http://171.108.239.80:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 590ms
-Name: 河北卫视, URL:  http://59.48.75.130:3052/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 913ms
-Name: 山西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 515ms
-Name: 山西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 772ms
-Name: 山西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1120ms
-Name: 重庆卫视, URL:  http://171.108.239.98:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 503ms
-Name: 重庆卫视, URL:  http://171.108.239.80:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 522ms
-Name: 重庆卫视, URL:  http://nnth.7766.org:85//tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 532ms
-Name: 重庆卫视, URL:  http://59.48.75.130:3052/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 800ms
-Name: 重庆卫视, URL:  http://171.108.239.79:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1540ms
-Name: 四川卫视, URL:  http://171.108.239.80:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: 四川卫视, URL:  http://171.108.239.79:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 539ms
-Name: 四川卫视, URL:  http://nnth.7766.org:85//tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 747ms
-Name: 四川卫视, URL:  http://59.48.75.130:3052/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1058ms
-Name: 广西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 514ms
-Name: 广西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: 广西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
-Name: 广西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1536ms
-Name: 广西卫视, URL:  http://171.108.239.98:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3482ms
-Name: 陕西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 532ms
-Name: 陕西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533ms
-Name: 陕西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 544ms
-Name: 陕西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1114ms
-Name: 甘肃卫视, URL:  http://59.48.75.130:3052/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 754ms
-Name: 宁夏卫视, URL:  http://171.108.239.98:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 505ms
-Name: 宁夏卫视, URL:  http://171.108.239.79:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 532ms
-Name: 宁夏卫视, URL:  http://59.48.75.130:3052/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 557ms
-Name: 宁夏卫视, URL:  http://171.108.239.80:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 3562ms
-Name: 青海卫视, URL:  http://171.108.239.98:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 527ms
+Name: 湖北卫视, URL:  http://171.108.239.79:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 536ms
+Name: 湖北卫视, URL:  http://220.164.192.48:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 548ms
+Name: 湖北卫视, URL:  http://59.48.75.130:3052/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
+Name: 河北卫视, URL:  http://nnth.7766.org:85//tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 510ms
+Name: 河北卫视, URL:  http://171.108.239.80:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: 河北卫视, URL:  http://171.108.239.98:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 524ms
+Name: 河北卫视, URL:  http://59.48.75.130:3052/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 河北卫视, URL:  http://220.164.192.48:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 532ms
+Name: 河北卫视, URL:  http://171.108.239.79:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 668ms
+Name: 山西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 513ms
+Name: 山西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 513ms
+Name: 山西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 529ms
+Name: 山西卫视, URL:  http://220.164.192.48:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 546ms
+Name: 山西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
+Name: 重庆卫视, URL:  http://171.108.239.79:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 525ms
+Name: 重庆卫视, URL:  http://171.108.239.98:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: 重庆卫视, URL:  http://220.164.192.48:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 541ms
+Name: 重庆卫视, URL:  http://nnth.7766.org:85//tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 759ms
+Name: 重庆卫视, URL:  http://59.48.75.130:3052/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1001ms
+Name: 重庆卫视, URL:  http://171.108.239.80:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1523ms
+Name: 四川卫视, URL:  http://nnth.7766.org:85//tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 508ms
+Name: 四川卫视, URL:  http://171.108.239.80:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: 四川卫视, URL:  http://220.164.192.48:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 544ms
+Name: 四川卫视, URL:  http://171.108.239.79:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 595ms
+Name: 四川卫视, URL:  http://59.48.75.130:3052/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 835ms
+Name: 广西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 514ms
+Name: 广西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: 广西卫视, URL:  http://171.108.239.98:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
+Name: 广西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 530ms
+Name: 广西卫视, URL:  http://220.164.192.48:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: 广西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 547ms
+Name: 陕西卫视, URL:  http://220.164.192.48:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 546ms
+Name: 陕西卫视, URL:  http://171.108.239.79:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 658ms
+Name: 陕西卫视, URL:  http://nnth.7766.org:85//tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 932ms
+Name: 陕西卫视, URL:  http://59.48.75.130:3052/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1106ms
+Name: 陕西卫视, URL:  http://171.108.239.80:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1531ms
+Name: 甘肃卫视, URL:  http://59.48.75.130:3052/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 527ms
+Name: 甘肃卫视, URL:  http://220.164.192.48:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 532ms
+Name: 宁夏卫视, URL:  http://171.108.239.80:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: 宁夏卫视, URL:  http://171.108.239.79:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 宁夏卫视, URL:  http://171.108.239.98:8181/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 537ms
+Name: 宁夏卫视, URL:  http://59.48.75.130:3052/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1046ms
+Name: 青海卫视, URL:  http://171.108.239.98:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 青海卫视, URL:  http://171.108.239.80:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 520ms
 Name: 青海卫视, URL:  http://171.108.239.79:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 529ms
-Name: 青海卫视, URL:  http://171.108.239.80:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 605ms
-Name: 青海卫视, URL:  http://59.48.75.130:3052/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 967ms
-Name: 海南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 545ms
-Name: 新疆卫视, URL:  http://171.108.239.98:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 506ms
-Name: 新疆卫视, URL:  http://171.108.239.80:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 522ms
-Name: 新疆卫视, URL:  http://171.108.239.79:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 550ms
-Name: 新疆卫视, URL:  http://59.48.75.130:3052/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 555ms
-Name: 西藏卫视, URL:  http://171.108.239.80:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: 西藏卫视, URL:  http://171.108.239.98:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 530ms
-Name: 西藏卫视, URL:  http://59.48.75.130:3052/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 957ms
-Name: 西藏卫视, URL:  http://171.108.239.79:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1587ms
-Name: 内蒙古卫视, URL:  http://171.108.239.98:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 508ms
-Name: 内蒙古卫视, URL:  http://171.108.239.79:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 524ms
-Name: 内蒙古卫视, URL:  http://59.48.75.130:3052/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 555ms
-Name: 内蒙古卫视, URL:  http://171.108.239.80:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 3561ms
-Name: 云南卫视, URL:  http://171.108.239.98:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 532ms
-Name: 云南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 535ms
-Name: 云南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 540ms
-Name: 云南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1232ms
-Name: 云南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1275ms
-Name: 东南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: 东南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 525ms
-Name: 东南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 546ms
-Name: 东南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 871ms
-Name: 河南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 515ms
-Name: 河南卫视, URL:  http://171.108.239.98:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 527ms
-Name: 河南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 539ms
-Name: 河南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1064ms
-Name: 厦门卫视, URL:  http://171.108.239.98:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 499ms
-Name: 厦门卫视, URL:  http://171.108.239.80:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
-Name: 厦门卫视, URL:  http://171.108.239.79:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 535ms
-Name: 厦门卫视, URL:  http://59.48.75.130:3052/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1235ms
-Name: 兵团卫视, URL:  http://171.108.239.79:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
-Name: 兵团卫视, URL:  http://171.108.239.98:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 578ms
-Name: 兵团卫视, URL:  http://171.108.239.80:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 656ms
-Name: 黑龙江卫视, URL:  http://171.108.239.80:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 552ms
-Name: 黑龙江卫视, URL:  http://171.108.239.79:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 566ms
-Name: 黑龙江卫视, URL:  http://nnth.7766.org:85//tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 761ms
-Name: 黑龙江卫视, URL:  http://59.48.75.130:3052/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1343ms
-Name: 足球频道, URL:  http://171.108.239.80:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
-Name: 足球频道, URL:  http://171.108.239.79:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 531ms
-Name: 足球频道, URL:  http://171.108.239.98:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1099ms
-Name: CCTV5, URL:  http://171.108.239.98:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
-Name: CCTV5, URL:  http://171.108.239.80:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
-Name: CCTV5, URL:  http://171.108.239.79:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 547ms
-Name: CCTV5, URL:  http://59.48.75.130:3052/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 560ms
-Name: CCTV5+, URL:  http://171.108.239.80:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
-Name: CCTV5+, URL:  http://171.108.239.79:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 550ms
-Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 481ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 483ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 497ms
-Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 497ms
-Name: 广东体育, URL:  http://171.108.239.80:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
-Name: 广东体育, URL:  http://171.108.239.79:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
-Name: 广东体育, URL:  http://171.108.239.98:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1534ms
-Name: 动作电影, URL:  http://171.108.239.98:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 513ms
-Name: 动作电影, URL:  http://171.108.239.80:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 542ms
-Name: 动作电影, URL:  http://171.108.239.79:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 572ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv, Date: None, Resolution: None, Response Time: 496ms
-Name: 凤凰资讯, URL: http://103.95.24.37:880/fhzx.m3u8, Date: None, Resolution: None, Response Time: 531ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 539ms
-Name: 凤凰资讯, URL: http://125.71.58.184:4022/udp/239.93.1.4:2191, Date: None, Resolution: None, Response Time: 554ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 556ms
-Name: 凤凰资讯, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8, Date: None, Resolution: None, Response Time: 673ms
-Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv, Date: None, Resolution: None, Response Time: 496ms
-Name: 凤凰中文, URL: http://103.95.24.37:880/fhws.m3u8, Date: None, Resolution: None, Response Time: 507ms
-Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 517ms
-Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 559ms
-Name: 凤凰中文, URL: http://125.71.58.184:4022/udp/239.93.1.9:2192, Date: None, Resolution: None, Response Time: 561ms
-Name: 凤凰中文, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8, Date: None, Resolution: None, Response Time: 891ms
-Name: 东森电影, URL:  http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
-Name: 东森电影, URL:  http://171.108.239.80:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 525ms
+Name: 青海卫视, URL:  http://59.48.75.130:3052/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: 青海卫视, URL:  http://220.164.192.48:50085/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1039ms
+Name: 海南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 海南卫视, URL:  http://220.164.192.48:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 575ms
+Name: 海南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1516ms
+Name: 新疆卫视, URL:  http://171.108.239.80:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: 新疆卫视, URL:  http://171.108.239.98:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: 新疆卫视, URL:  http://220.164.192.48:50085/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 536ms
+Name: 新疆卫视, URL:  http://171.108.239.79:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 545ms
+Name: 新疆卫视, URL:  http://220.164.192.48:50085/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 559ms
+Name: 新疆卫视, URL:  http://59.48.75.130:3052/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1096ms
+Name: 西藏卫视, URL:  http://171.108.239.80:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 西藏卫视, URL:  http://171.108.239.98:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 西藏卫视, URL:  http://171.108.239.79:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: 西藏卫视, URL:  http://59.48.75.130:3052/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
+Name: 内蒙古卫视, URL:  http://171.108.239.80:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: 内蒙古卫视, URL:  http://171.108.239.98:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 522ms
+Name: 内蒙古卫视, URL:  http://171.108.239.79:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 660ms
+Name: 内蒙古卫视, URL:  http://59.48.75.130:3052/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1002ms
+Name: 云南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 云南卫视, URL:  http://171.108.239.98:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 云南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: 云南卫视, URL:  http://220.164.192.48:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 539ms
+Name: 云南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 641ms
+Name: 云南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 748ms
+Name: 东南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: 东南卫视, URL:  http://171.108.239.79:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 566ms
+Name: 东南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 992ms
+Name: 东南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 2109ms
+Name: 河南卫视, URL:  http://220.164.192.48:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 533ms
+Name: 河南卫视, URL:  http://nnth.7766.org:85//tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 824ms
+Name: 河南卫视, URL:  http://59.48.75.130:3052/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1054ms
+Name: 河南卫视, URL:  http://171.108.239.80:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 3548ms
+Name: 河南卫视, URL:  http://171.108.239.98:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 3556ms
+Name: 厦门卫视, URL:  http://171.108.239.80:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 509ms
+Name: 厦门卫视, URL:  http://171.108.239.79:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 厦门卫视, URL:  http://171.108.239.98:8181/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 519ms
+Name: 厦门卫视, URL:  http://220.164.192.48:50085/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 532ms
+Name: 厦门卫视, URL:  http://59.48.75.130:3052/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1176ms
+Name: 兵团卫视, URL:  http://171.108.239.79:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 兵团卫视, URL:  http://171.108.239.80:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: 兵团卫视, URL:  http://171.108.239.98:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 526ms
+Name: 黑龙江卫视, URL:  http://171.108.239.80:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 517ms
+Name: 黑龙江卫视, URL:  http://171.108.239.98:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 523ms
+Name: 黑龙江卫视, URL:  http://59.48.75.130:3052/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 664ms
+Name: 黑龙江卫视, URL:  http://nnth.7766.org:85//tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1378ms
+Name: 黑龙江卫视, URL:  http://171.108.239.79:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 1545ms
+Name: 足球频道, URL:  http://171.108.239.98:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
+Name: 足球频道, URL:  http://171.108.239.79:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 572ms
+Name: 足球频道, URL:  http://171.108.239.80:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1539ms
+Name: CCTV5, URL:  http://171.108.239.80:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 513ms
+Name: CCTV5, URL:  http://171.108.239.98:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
+Name: CCTV5, URL:  http://171.108.239.79:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528ms
+Name: CCTV5, URL:  http://220.164.192.48:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0, Date: None, Resolution: None, Response Time: 531ms
+Name: CCTV5, URL:  http://59.48.75.130:3052/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 1029ms
+Name: CCTV5+, URL:  http://171.108.239.80:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 518ms
+Name: CCTV5+, URL:  http://171.108.239.79:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 532ms
+Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 488ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 475ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 487ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 494ms
+Name: 广东体育, URL:  http://171.108.239.80:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 511ms
+Name: 广东体育, URL:  http://171.108.239.98:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 520ms
+Name: 广东体育, URL:  http://171.108.239.79:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 753ms
+Name: 动作电影, URL:  http://171.108.239.80:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 516ms
+Name: 动作电影, URL:  http://171.108.239.98:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 521ms
+Name: 动作电影, URL:  http://171.108.239.79:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 555ms
+Name: 凤凰资讯, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8, Date: None, Resolution: None, Response Time: 473ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 483ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 489ms
+Name: 凤凰资讯, URL: http://103.95.24.37:880/fhzx.m3u8, Date: None, Resolution: None, Response Time: 524ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv, Date: None, Resolution: None, Response Time: 533ms
+Name: 凤凰资讯, URL: http://125.71.58.184:4022/udp/239.93.1.4:2191, Date: None, Resolution: None, Response Time: 584ms
+Name: 凤凰中文, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8, Date: None, Resolution: None, Response Time: 473ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv, Date: None, Resolution: None, Response Time: 499ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 528ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 535ms
+Name: 凤凰中文, URL: http://125.71.58.184:4022/udp/239.93.1.9:2192, Date: None, Resolution: None, Response Time: 563ms
+Name: 凤凰中文, URL: http://103.95.24.37:880/fhws.m3u8, Date: None, Resolution: None, Response Time: 569ms
+Name: 东森电影, URL:  http://171.108.239.80:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 512ms
+Name: 东森电影, URL:  http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 517ms
