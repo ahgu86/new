@@ -1,5 +1,15 @@
-Name: 兵团卫视, URL: http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202, Date: None, Resolution: None, Response Time: 3337ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 393ms
-Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 412ms
-Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 396ms
-Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 407ms
+Name: 兵团卫视, URL: http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202, Date: None, Resolution: None, Response Time: 2448ms
+Name: 五星体育, URL: http://58.41.27.144:18888/rtp/239.45.3.210:5140$1920x1080, Date: None, Resolution: None, Response Time: 484ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.6:5146$720x576, Date: None, Resolution: None, Response Time: 480ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.112:5146$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 广东体育, URL: http://14.145.225.21:8888/rtp/239.77.0.168:5146$1920x1080, Date: None, Resolution: None, Response Time: 482ms
+Name: 凤凰资讯, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8, Date: None, Resolution: None, Response Time: 463ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv, Date: None, Resolution: None, Response Time: 468ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 507ms
+Name: 凤凰资讯, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8, Date: None, Resolution: None, Response Time: 508ms
+Name: 凤凰资讯, URL: http://125.71.58.184:4022/udp/239.93.1.4:2191, Date: None, Resolution: None, Response Time: 530ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv, Date: None, Resolution: None, Response Time: 419ms
+Name: 凤凰中文, URL: http://125.71.58.184:4022/udp/239.93.1.9:2192, Date: None, Resolution: None, Response Time: 545ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 545ms
+Name: 凤凰中文, URL: http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8, Date: None, Resolution: None, Response Time: 545ms
+Name: 凤凰中文, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8, Date: None, Resolution: None, Response Time: 840ms
