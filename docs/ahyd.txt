@@ -667,39 +667,10 @@ CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVBS新闻台,http://fm1077.serv00.net/Smart.php?id=tvbs_n
-TVB星河台,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
-TVB明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB-J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
-TVB新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-TVB-财经,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
-TVB PEARL,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-TVB-JADE,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-明珠台,http://8.218.11.245:91/api/channel/9vem6/8mz321.m3u8
-翡翠台,http://8.218.11.245:91/api/channel/9vem6/z01Fx4.m3u8
+
 緯來體育,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-莲花卫视,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-东森电影, http://171.108.239.115:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影, http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-东森电影, http://171.108.239.80:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-中视,http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn
-中天综合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-中视新闻台,http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn
-中天亚洲台,http://fm1077.serv00.net/Smart.php?id=ctiasia_twn
-中天新闻台,http://fm1077.serv00.net/Smart.php?id=ctinews
-公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-三立新闻台,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
+
 
 乡村食谱,#genre#
 鲍汁豆腐,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
