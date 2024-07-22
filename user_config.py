@@ -54,4 +54,4 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/ycl_iptv.txt",
 ]
 open_multicast = True
-region_list = ["安徽"]
+region_list = ["all"]
