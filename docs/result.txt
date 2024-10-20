@@ -221,9 +221,9 @@ CETV4,http://111.225.112.26:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&au
 安徽卫视,http://36.40.237.239:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://59.48.75.130:3052/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 
+东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8 
+东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8 
 东方卫视,http://112.234.23.81:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8
-东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
 东方卫视,http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://119.163.63.188:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://61.157.139.15:9901/tsfile/live/2389_1.m3u8?key=txiptv&playlive=1&authid=0
