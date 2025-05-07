@@ -2,7 +2,7 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'
+    - cron: '0 10 * * *'
   workflow_dispatch:
     branches:
       - master
@@ -11,7 +11,7 @@ on:
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
-    timeout-minutes: 120
+    timeout-minutes: 180
     strategy:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
