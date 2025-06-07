@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-07 18:23:01,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
+2025-06-08 06:20:17,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
@@ -7,6 +7,7 @@ CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-
 CCTV2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
 CCTV2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 CCTV3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
+CCTV3,http://221.226.4.10:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
@@ -17,25 +18,19 @@ CCTV6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV7,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
 CCTV7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV8,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
-CCTV8,http://120.238.94.10:9901/tsfile/live/1026_1.m3u8
-CCTV8,http://58.221.214.82:9901/tsfile/live/0008_1.m3u8
 CCTV9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
 CCTV9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
-CCTV9,http://120.238.94.10:9901/tsfile/live/1027_1.m3u8
 CCTV9,http://119.32.12.17:2901/udp/224.1.100.29:11111
+CCTV9,http://111.14.181.15:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://218.89.240.144:59901/tsfile/live/0009_1.m3u8
-CCTV9,http://61.156.228.12:8154/tsfile/live/0009_1.m3u8
 CCTV10,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
-CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
-CCTV10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
+CCTV10,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
 CCTV12,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
 CCTV13,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV14,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
-CCTV15,http://183.11.239.36:808/hls/102/index.m3u8
 CCTV16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 CETV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
@@ -59,17 +54,19 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
-东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
+东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111
 浙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/zhejiangstv/1.m3u8
 浙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://119.32.12.17:2901/udp/224.1.100.52:11111
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hunanstv/1.m3u8
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 河南卫视,http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/beijingstv/1.m3u8
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
@@ -77,13 +74,12 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 江苏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiangsustv/1.m3u8
 江苏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-jiangsustv/1.m3u8
 辽宁卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-liaoningstv/1.m3u8
-辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111
 广东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangdongstv/1.m3u8
 广东卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/1.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖北卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
+湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 黑龙江卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 重庆卫视,http://120.210.193.151:8006/120000001002/XMTchongqingwshd/index.m3u8
 东南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
@@ -92,6 +88,7 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 甘肃卫视,http://120.210.193.151:8006/120000001002/XMTgswshd/index.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangxistv/1.m3u8
+广西卫视,http://121.17.146.34:50003/hls/56/index.m3u8
 贵州卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-guizhoustv/1.m3u8
 贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111
 海南卫视,http://120.210.193.151:8006/120000001002/XMThainanwshd/index.m3u8
@@ -118,6 +115,7 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/1.m3u8
 西藏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xizangstv/1.m3u8
 新疆卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xinjiangstv/1.m3u8
+新疆卫视,http://121.17.146.34:50003/hls/64/index.m3u8
 云南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/yunnanstv/1.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
@@ -172,11 +170,9 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
@@ -244,14 +240,14 @@ CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD
 风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
 天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🎵音乐频道,#genre#
 CCTV15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
 风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-音乐之声,http://live.xmcdn.com/live/1205/64.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+音乐之声,http://live.xmcdn.com/live/1205/64.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
