@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-18 18:24:02,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
+2025-06-19 06:21:32,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
@@ -9,6 +9,7 @@ CCTV2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-
 CCTV3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
 CCTV4,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV4,http://182.150.23.74:808/hls/4/index.m3u8
 CCTV5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
@@ -16,14 +17,13 @@ CCTV5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV6,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
 CCTV6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV7,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
-CCTV7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV7,http://58.221.214.82:9901/tsfile/live/0007_1.m3u8
+CCTV7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV8,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
 CCTV9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
 CCTV9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
-CCTV9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV9,http://omnix.cn:4000/udp/225.1.8.9:8112
+CCTV9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV10,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
 CCTV10,http://119.32.12.17:2901/udp/224.1.100.76:11111
 CCTV11,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
@@ -57,6 +57,8 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8
 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://121.17.146.178:50003/hls/46/index.m3u8
+安徽卫视,http://101.66.199.24:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
@@ -67,8 +69,8 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 河南卫视,http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/beijingstv/1.m3u8
 北京卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -99,6 +101,7 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 青海卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
 山东卫视,http://120.210.193.151:8006/120000001002/XMTshandongwshd/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://101.66.199.198:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxistv/1.m3u8
 陕西卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxi1stv/1.m3u8
 四川卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
@@ -110,6 +113,7 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
 天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/tianjinstv/1.m3u8
 天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/1.m3u8
+天津卫视,http://121.17.146.178:50003/hls/40/index.m3u8
 西藏卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xizangstv/1.m3u8
 新疆卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xinjiangstv/1.m3u8
 云南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/yunnanstv/1.m3u8
@@ -158,10 +162,10 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
@@ -169,9 +173,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
