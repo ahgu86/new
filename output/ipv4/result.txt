@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-23 06:22:34,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
+2025-07-23 18:26:47,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
@@ -89,8 +89,8 @@ CETV4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 四川卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
 深圳卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shenzhenstv/1.m3u8
 深圳卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/1.m3u8
-深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
+深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 三沙卫视,http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
 天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/tianjinstv/1.m3u8
 天津卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/1.m3u8
@@ -151,8 +151,9 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -216,8 +217,8 @@ CCTV5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD
 风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🎵音乐频道,#genre#
 CCTV15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
