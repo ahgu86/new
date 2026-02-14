@@ -8,3 +8,22 @@
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+https://gitee.com/T-GU/kk/raw/master/teach.json
+https://gitee.com/T-GU/kk/raw/master/ah
+http://ku9.fr.to/ku9/1770975590.txt
+http://xtvantsc.xyz/mytv.m3u
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/MyTV
+https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt
+http://xtvantsc.xyz/4gtv.txt
+https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容
+https://raw.githubusercontent.com/cdlongbow/FGBLH/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86%E9%A2%91%E9%81%93
+
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
